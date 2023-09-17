@@ -4,7 +4,7 @@ tags:
 - Grade 12
 ---
 
-Ms.Kelly is my [[Grade 12]] [[AP Calculus BC]] teacher, like all my teachers I respect her very much.
+Ms.Kelly is my [[Grade 12]] [[AP Calculus AB]] teacher, like all my teachers I respect her very much.
 
 ## What people have told me
 

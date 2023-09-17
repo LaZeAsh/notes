@@ -1,5 +1,5 @@
 ---
-title: "Sig Digs"
+title: "Significant Digits"
 ---
 ## Rules
 

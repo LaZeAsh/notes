@@ -16,6 +16,14 @@ My Miata Specs:
 
 ## Maintenance logs
 
+### 09/10/2023
+
+- Replaced Brake Fluid (DOT 4 Brake Fluid)
+- Replaced Differential Fluid
+- Replaced Transmission Fluid
+- Replaced Brake Grease 
+- 
+
 ### Date
 
 - Oil change + oil filter

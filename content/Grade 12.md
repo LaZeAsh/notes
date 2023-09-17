@@ -13,11 +13,11 @@ Courses:
 - [[Physics]]
 - [[Economics]]
 - [[Advanced Computer Science]]
-- [[AP Calculus BC]]
+- [[AP Calculus AB]]
 
 Day School:
 
-[[AP Calculus BC]] (prerequisite for UWaterloo)
+[[AP Calculus AB]] (prerequisite for UWaterloo)
 [[AP Chemistry]] (prerequisite for UofT)
 Expository Reading and Writing (prerequisite for graduation)
 US History (prerequisite for graduation)

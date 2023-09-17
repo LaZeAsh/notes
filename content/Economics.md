@@ -1,9 +1,9 @@
 ---
-title: "Economics"
+title: Economics
 tags:
-- Grade 12
+  - Grade
+  - "12"
 ---
-
 ## Class Policies
 
 - NO extra credit
@@ -45,3 +45,5 @@ Quiz on Chapter 1 & 2 - 08/18/2023 (10 questions)
 Quiz on Chapter 1 & 2 - 08/18/2023 (10 questions)
 
 FRQ Unit 1 - 4, 5, 9 (primary areas of focus for the FRQ portions)
+
+[[Stock Market]]

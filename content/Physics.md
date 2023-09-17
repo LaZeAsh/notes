@@ -18,7 +18,7 @@ A lot of stuff with motion and velocity
 
 - Speed of light 
 
-## Notes
+### Notes
 - [[Graphical Kinematics Notes]]
 ## Labs
 - [[Hot Wheels Labs]]
@@ -28,7 +28,13 @@ A lot of stuff with motion and velocity
 
 ##  Unit 2: Kinematics and Dynamics
 
-## Notes
+### Reading
+
+- [[Physics - Chapter 4]]
+- 
+
+
+### Notes
 - [[Vectors]]
 - 
 

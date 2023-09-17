@@ -12,4 +12,6 @@ I am going to be overtime going over what I believe are common problems that peo
 - [[What's the worst that can happen?]]
 - [[Honor]]
 - [[100 mil checque]]
+- [[Self Responsibility]]
+- [[Excuses|Excuse]]
 - 

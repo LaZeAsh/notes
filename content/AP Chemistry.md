@@ -35,6 +35,9 @@ High energy -> Low energy (this chapter)
 - [[Thermochemical Equations]]
 - [[Enthalpy]]
 - [[Formation Reactions]]
+- [[Hess's Law]]
+- [[Hydrogen Atomic Emission Spectrum]]
+- [[The Aufbau Principle]]
 - 
 ## Khan Academy
 

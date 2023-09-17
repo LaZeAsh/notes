@@ -129,20 +129,34 @@ Invited as a mentor at ElleHacks, Canada's leading hackathon for women and gende
 
 13. JAMHacks organizer (Extracurricular Activity)
 
+Please describe the organization, program, school or group. *
+
+JAMHacks is a 36 hour hackathon held at University of Waterloo (jamhacks.ca) being Waterloo's largest high school hackathon with over 200 high schoolers gathering for a weekend of learning and creating, giving out $15,000 in prizes! 
+
+What did you do? *
+
+I started out as a Tech Organizer, responsible for developing the website jamhacks.ca and JamJam, JAMHacks' verification Discord bot. This year, I was promoted to Lead Organizer, where I now manage a team of over 15 organizers. My responsibilities include all of my previous duties, as well as overseeing all aspects of the event (eg: communication).
 
 
 14. UC Berkeley ASAE (Extracurricular Activity)
 
-15. Our Wave Hub (Work Experience)
+I'm helping to build, test, and fly an aircraft for the SAE International Aero-Design West competition as part of UC Berkeley's Aerospace SAE. I'm gaining aerospace exposure by working with SolidWorks, learning about electronics, and getting mentored by experienced peers. I'm still learning, but I'm excited to meaningfully contribute to the team.
 
+15. Our Wave Hub (Educational Preparation Program)
 
+Briefly describe the program. *
+  
+I joined Our Wave Hub, a Canadian ed-tech startup. In a 5-week summer program partnered with AppleEDU, I acquired iOS app development skills, wireframing, and collaborated in a 20-person cohort. These fundamentals aided my app creation for Apple's 2023 Swift Student Challenge, making an app using Swift to translate to and from Braille.
 
 16. Medium Blogger (Extracurricular Activity)
 
-
+I wrote Medium blogs about a variety of topics that interested me, like hackathons and my Flipper Zero engineering project. My blogs got over 600 views. While views were my initial motivation, I soon realized that the real value was in reflecting on my personal growth over time. This also helped me improve my writing skills, which is one of the areas I'm still working on.
 
 17. Computer Club Executive (Extracurricular Activity)
 
+What did you do? *
+
+I was an executive member of the Rick Hansen Secondary School Computer Club, where I led the Advanced Computer Club, which focused on Data Structures and Algorithms with an emphasis on Canadian Computing Competition (CCC) prep. I tutored over 30 members on solving coding problems on platforms like LeetCode and DMOJ and taught over 20 problems.
 
 
 18. MX-5 Maintenance (Extracurricular Activity)
@@ -159,7 +173,21 @@ Teen-run 501(c)3 nonprofit org. providing equal access to tech for all teens. Co
 
 What did you do? *
 
-Lead/develop 50 STEM workshops for 3000 teens in 3 years. Lead/host 2022 Civic Hackathon, 2022 STEM Inclusivity Forum, and 2022 Global Youth Summit with speakers and audience from 14 countries. Received grants from YFYI, BLING, Managed $20k budget. Started out as STEM Workshop Associate and worked my way up to Vice President.
+Lead/develop 50 STEM workshops for 3000+ teens in 3 years. Lead/host 2022 Civic Hackathon, 2022 STEM Inclusivity Forum, and 2022 Global Youth Summit with speakers and audience from 14 countries. Received grants from YFYI, BLING, YEF, and more. Managed $20k budget. Started out as STEM Workshop Associate and worked my way up to Vice President.
 
 20. Summer School Chemistry Award (Honor/Award)
 
+What are the eligibility requirements for this award or honor? *
+
+In a class of 30 students, only 3 are selected for this award. Those who receive it consistently excel in adhering to Summer School expectations of commitment, respect, honesty, and kindness.
+
+What did you do to achieve this award or honor? *
+
+According to my summer school teacher, I was dedicated to the task at hand, helped my peers when they needed help, and showed respect inside and outside of the classroom. I did not do this for the award, as I was unaware of its existence. I did it because I had committed my time to something, and it is my personal responsibility to give my 100%.
+
+
+Work Experience
+
+How have you used or will you use your earnings? *
+
+I use my earnings to support engineering projects, such as building a speaker from scratch, covering my commute to UC Berkeley for UC Berkeley ASAE, and allocating the rest to leisure or saving for my future engineering projects.

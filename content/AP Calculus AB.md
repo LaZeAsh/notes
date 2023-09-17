@@ -1,5 +1,5 @@
 ---
-title: "AP Calculus BC"
+title: "AP Calculus AB"
 tags:
 - Grade 12 Course
 ---

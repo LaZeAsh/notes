@@ -29,7 +29,7 @@ ALWAYS USE [[Significant Digits]] TO ROUND
 	   0.50 ppm = (mass of Hg * 10$^6$) / 2000 g
 	   mass of Hg = (0.50ppm * 2000 g) / 10$^6$
 	   = 0.001g = 1 mg
-5. Molarity (Molar Concentration) [Used most often in class]()]
+5. Molarity (Molar Concentration) 
 	1. Molar Concentration (C) = moles of solute (mol) / volume of solution (L)
 	2. C = n/V (C = concentration, V = Volume, M = $\frac{mol}{L}$, M = molar)
 	3. Steps:
