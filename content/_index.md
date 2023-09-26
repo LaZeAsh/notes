@@ -2,7 +2,6 @@
 title: "Hi, I am Ayush 1️⃣7️⃣" 
 enableToc: false
 ---
-
 I'm a high school senior at Foothill High School in California who's interested in pursuing the field of STEM specifically Computer Science and Engineering. 
 
 *Try clicking on the highlighted portions to view my notes on that topic*
