@@ -1,7 +1,7 @@
 ---
-title: "Physics"
+title: Graphical Kinematics Notes
 tags:
-- Physics
+  - Physics
 ---
 
 ## 4 Part Calculation
