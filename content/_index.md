@@ -1,6 +1,5 @@
 ---
-title: "Hi, I am Ayush 1️⃣7️⃣" 
-enableToc: false
+title: Hi, I am Ayush 1️⃣7️⃣
 ---
 I'm a high school senior at Foothill High School in California who's interested in pursuing the field of STEM specifically Computer Science and Engineering. 
 
@@ -18,7 +17,7 @@ I'm a high school senior at Foothill High School in California who's interested 
     <div class="item">
         <p>Currently learning:</p>
         <blockquote>
-            - [[AP Calculus BC]]
+            - [[AP Calculus AB]]
             <br>
             - [[AP Chemistry]]
         </blockquote>
