@@ -36,9 +36,20 @@ High energy -> Low energy (this chapter)
 - [[Enthalpy]]
 - [[Formation Reactions]]
 - [[Hess's Law]]
+
+## Unit 7
+
 - [[Hydrogen Atomic Emission Spectrum]]
 - [[The Aufbau Principle]]
+
+## Unit 8
+
+- cation vs cation size
+- anion vs anion size
+- [[Lattice Energy]]
+- [[Lewis Structures]]
 - 
+
 ## Khan Academy
 
 Taking this course my grade 12 year and I want to get a headstart on it hence I will be studying and watching lessons
