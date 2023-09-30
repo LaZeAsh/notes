@@ -1,7 +1,10 @@
 ---
-title: "Christopher Gibbons"
+title: Christopher Gibbons
 tags:
-- Grade 12
+  - Grade
+  - "12"
+aliases:
+  - Chrissy
 ---
 
 Mr.Gibbons is my [[Grade 12]] [[Physics]] teacher, like all my teachers I respect him very much. Mr.Gibbons graduated from University of California Berkeley, go bears!

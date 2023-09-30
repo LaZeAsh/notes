@@ -48,6 +48,10 @@ High energy -> Low energy (this chapter)
 - anion vs anion size
 - [[Lattice Energy]]
 - [[Lewis Structures]]
+- [[Bond Lengths]]
+- [[Bond Energies]]
+- [[Octet Rule]]
+- 
 - 
 
 ## Khan Academy
