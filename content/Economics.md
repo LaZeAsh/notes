@@ -47,3 +47,9 @@ Quiz on Chapter 1 & 2 - 08/18/2023 (10 questions)
 FRQ Unit 1 - 4, 5, 9 (primary areas of focus for the FRQ portions)
 
 [[Stock Market]]
+
+
+## Projects
+
+- [[Stock Market Simulation]]
+- 

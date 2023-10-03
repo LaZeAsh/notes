@@ -32,6 +32,7 @@ By completing this you'll read at least 750 pages, find yourself in a dietary ro
 ## Potential Drawbacks of 75 Hard
 
 It's an all or nothing, 75 Hard doesn't allow for uncertainty
+
 75 Hard doesn't provide guidance around specific fitness or nutrition plans, either
 
 ## Potential Health & Safety Risks of 75 Hard
