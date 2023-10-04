@@ -12,4 +12,6 @@ tags:
 - Number 4 will be on the test without friction
 - Number 6 on the test as a multiple choice question
 - F$_s$ - F$_F$ = 
+- Algebra will be relatively simple on the test
+- 
 
