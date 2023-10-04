@@ -51,9 +51,12 @@ High energy -> Low energy (this chapter)
 - [[Bond Lengths]]
 - [[Bond Energies]]
 - [[Octet Rule]]
-- 
-- 
 
+### Unit 9
+
+- [[Orbital Hybridization]]
+- [[Sigma vs Pi. Bonds]]
+- 
 ## Khan Academy
 
 Taking this course my grade 12 year and I want to get a headstart on it hence I will be studying and watching lessons

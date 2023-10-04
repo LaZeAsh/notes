@@ -13,5 +13,7 @@ tags:
 - Number 6 on the test as a multiple choice question
 - F$_s$ - F$_F$ = 
 - Algebra will be relatively simple on the test
+- Will be given the coefficient of friction, applied force, acceleration and will be asked to be given the mass
+- The free response question on this test is like Page 186 # 120
 - 
 
