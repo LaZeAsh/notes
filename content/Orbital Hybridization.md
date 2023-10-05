@@ -18,3 +18,5 @@ Introduced to this concept in [[AP Chemistry]]
 	- 2 = sp$^1$ (1 isn't necessary in Chemistry)
 	- 5 = dsp$^3$
 	- 6 = d$^2$sp$^3$ 
+
+
