@@ -40,4 +40,26 @@ Proposal: Change in fuselage shape from circle to rounded square
 - Sliding lock mechanism
 - Corner circled inserted into cutouts lock sliding tail / fuselage
 
+## Boom Tail / Conventional Tail
 
+Boom Tail - A type of rod or tubing that comes out of the fuselage and goes all the way to the back of the plane
+
+Advantages:
+- Easy integration
+- Easy manufacturing
+- Strong
+
+Disadvantages:
+- Weight (too heavy)
+- Deflection
+
+Conventional tail
+
+Advantages:
+- Very Lightweight
+- Very strong
+
+Disadvantages:
+- Difficult integration method
+- Difficult to repair if broken
+- Difficult to manufacture
