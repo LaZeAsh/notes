@@ -1,5 +1,4 @@
 ---
-title: "Example Title"
-tags: 
-- example-tag
+title: Example Title
+tags: []
 ---
