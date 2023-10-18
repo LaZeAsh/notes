@@ -15,5 +15,7 @@ tags:
 - Algebra will be relatively simple on the test
 - Will be given the coefficient of friction, applied force, acceleration and will be asked to be given the mass
 - The free response question on this test is like Page 186 # 120
-- 
 
+## Cheat Sheet
+
+![[images/IMG_4314.jpg]]

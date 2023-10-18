@@ -6,7 +6,7 @@ tags:
 
 Physics is my 3rd period class in [[Grade 12]] taught by [[Christopher Gibbons|Mr.Gibbons]] 
 
-A lot of stuff with motion and velocity
+[[Physics - FINAL]]
 
 ## Unit 1: Introduction to Physics & some basic skills
 [[Physics - Unit 1 test]]
@@ -41,3 +41,7 @@ A lot of stuff with motion and velocity
 - [[Village Idiot Method]]
 - [[Friction]]
 - 
+## Unit 4: Kinematics
+[[Kinematics Equations]]
+
+- [[Physics - Unit 4 test]]

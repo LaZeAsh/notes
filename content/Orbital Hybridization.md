@@ -13,9 +13,9 @@ Introduced to this concept in [[AP Chemistry]]
 	- \# of lone pairs of electrons + \# of bonded atoms
 	- *Double bonds do not make a difference*
 - If the answer to the above question is
-	- 4 = sp$^3$
-	- 3 = sp$^2$
 	- 2 = sp$^1$ (1 isn't necessary in Chemistry)
+	- 3 = sp$^2$
+	- 4 = sp$^3$
 	- 5 = dsp$^3$
 	- 6 = d$^2$sp$^3$ 
 

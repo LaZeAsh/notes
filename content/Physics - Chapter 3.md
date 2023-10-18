@@ -15,5 +15,6 @@ Ways velocity can change:
 - Velocity changes when the speed of an object changes
 - Velocity changes when the direction of motion changes
 
-## Chapter 3.3
+## Chapter 3.2
+
 

@@ -19,4 +19,4 @@ Expanded Octet: Metalloid / Nonmetal elements in 3rd period and beyond
 
 ## Exception to Octet Rule
 
-Row 3 and heavier nonmetals can have more than  electrons around them when they have to. Row 3 and heavier elements have empty  orbitals that are close in energy to valence  and  orbitals. These empty  orbitals can accept extra electrons.
+Row 3 and heavier nonmetals can have more than  electrons around them when they have to. Row 3 and heavier elements have empty orbitals that are close in energy to valence and orbitals. These empty  orbitals can accept extra electrons.

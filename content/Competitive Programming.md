@@ -2,5 +2,6 @@
 title: "Comp Programming"
 ---
 competitive programming git repo: https://github.com/LaZeAsh/competitive-programming
-## Python
-### Quick things / notes
+
+I am following https://usaco.guide/
+
