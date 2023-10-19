@@ -24,3 +24,4 @@ tags:
 - Describe displacement, velocity, acceleration for something I threw in the air and caught
 - Wont give 2 equations to solve simultaneously
 - If he aims at the monkey he'll hit the monkey if the monkey falls when the dart is shot
+- At least one of the labs is going to be on the test "Count on it"
