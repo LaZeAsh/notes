@@ -52,7 +52,7 @@ High energy -> Low energy (this chapter)
 - [[Bond Energies]]
 - [[Octet Rule]]
 
-### Unit 9
+## Unit 9
 
 - [[Orbital Hybridization]]
 - [[Sigma vs Pi. Bonds]]
@@ -62,6 +62,8 @@ High energy -> Low energy (this chapter)
 - [[Kinetic Molecular Theory]]
 - [[Dalton's Law of Partial Pressure]]
 - [[Mole Fraction]]
+- [[Maxwell-Botlzmann Speed Distribution]]
+- [[Real vs Ideal Gases]]
 - 
 ## Khan Academy
 

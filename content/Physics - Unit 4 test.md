@@ -25,3 +25,8 @@ tags:
 - Wont give 2 equations to solve simultaneously
 - If he aims at the monkey he'll hit the monkey if the monkey falls when the dart is shot
 - At least one of the labs is going to be on the test "Count on it"
+- Answer to geometric shape for this test is going to be parabola
+- Horizontal velocity doesn't affect vertical velocity (not including air resistance)
+- Dart Gun Lab procedure will be on the test
+- A lot of questions about procedural stuff
+- Dart Gun Lab - If the dart is heavier then it'll come out slower, because it exerts a certain force 

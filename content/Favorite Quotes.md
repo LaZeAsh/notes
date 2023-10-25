@@ -9,3 +9,4 @@ title: "Fav Quotes"
 
 "To get something you never had you have to do something you never did" - Denzel Washington
 
+"the pain of trying is not as painful as the regret of not trying at all"

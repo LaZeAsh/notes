@@ -3,7 +3,6 @@ title: Kinematics equations
 tags:
   - Physics
 ---
-
 ## Equations
 
 1. v$_f$ = v$_i$ + at
