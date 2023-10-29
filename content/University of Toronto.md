@@ -9,7 +9,7 @@ University of Toronto, also known as the "Harvard of Canada"
 
 University of Toronto has 3 campuses:
 
-1. University of Toronto Saint George
+1. University of Toronto St. George
 2. University of Toronto Scarborough
 3. University of Toronto Mississauga
 

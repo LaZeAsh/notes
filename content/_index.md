@@ -7,11 +7,11 @@ I'm a high school senior at Foothill High School in California who's interested 
 
 ## Spotlight 🌟
 - I am currently working under [[Dr. Rhonda McEwen]]'s lab [[Emerging Technologies and the Arts Lab]] at [[University of Toronto]]
-- I am currently a Web/Tech Organizer at [JAMHacks](https://www.jamhacks.ca) a hackathon hosted at [[University of Waterloo]]
+- I am currently a Lead Organizer at [JAMHacks](https://www.jamhacks.ca) a hackathon hosted at [[University of Waterloo]]
 - I am developing [[RubiksCube-AI |Rubiks]] an application that analyzes and solves Rubiks Cubes
-- I will be joining Berkeley Aerospace SAE for the 2023 - 2024 school year designing, manufacturing, testing, and flying aircraft in preparation for the SAE International Aero-Design West competition this Spring.
+- I am a part of [[Berkeley ASAE]] where I am working with the Electrical Team to develop an aircraft in preparation for the SAE International Aero-Design West competition this Spring
 - I have previously been offered a job at [[Cohere]] as an Intern of Technical Staff
-- I love to workout 🏋️ love cars 🚗 and enjoy playing badminton 🏸
+- I love to workout 🏋️ love cars (checkout [[Miata]]) 🚗 and enjoy playing badminton 🏸
 
 <div class="custom-layout">
     <div class="item">
@@ -51,9 +51,8 @@ Browse My Mind:
 ⚠️ By no means are my notes perfect, I learn differently and view things differently than other people and therefore I recommend you take what you see with a [[Grain of salt |grain of salt]] 
 
 ## In Times Gone By ⏳
-
-![[images/TTSF.jpeg]]
-<center><i><p>Speaker at Teen Tech San Francisco's STEM Inclusivity Forum</p></i></center>
+![[images/IMG_4101.jpg]]
+<center><i><p>Picture with Tom Matano in front of my Miata (I look horrible as I had just woken up)</p></i></center>
 
 
 - I interned at Our Wave Hub in a partner program with [AppleEDU](https://twitter.com/AppleEDU) where I developed iOS Apps with [[Swift]]
