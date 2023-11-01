@@ -49,4 +49,8 @@ Physics is my 3rd period class in [[Grade 12]] taught by [[Christopher Gibbons|M
 ## Unit 5
 
 - [[Physics - Unit 5 test]]
+
+### Readings
+
+- [[Physics - Chapter 9]]
 - 

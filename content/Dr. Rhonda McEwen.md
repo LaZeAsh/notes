@@ -7,7 +7,7 @@ tags:
 
 ## Who is she?
 
-Dr.Rhonda McEwen is the current President of Victoria College at [[University of Toronto|University of Toronto St. George]] and the former Dean of [[University of Toronto|University of Toronto Mississauga]]. *write more stuff about her profession here*
+Dr.Rhonda McEwen is the current President of Victoria College at [[University of Toronto|University of Toronto St. George]] and the former Dean of [[University of Toronto|University of Toronto Mississauga]]. 
 
 ## My affiliations with her
 

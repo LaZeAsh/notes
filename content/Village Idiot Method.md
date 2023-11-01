@@ -5,7 +5,6 @@ aliases:
 tags:
   - Physics
 ---
-
 1. Vector (FBD) Diagram
 2. Coordinate System
 3. Resolve vectors into x & y components or (parallel and perpendicular)

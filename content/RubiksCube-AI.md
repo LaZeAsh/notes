@@ -3,7 +3,11 @@ title: "Rubiks"
 ---
 Personal project I am working on, logs on how I made this are in [[RubiksCube-AI Logs]]
 
+## Features
 
+- Analyze cube and say how hard it was to solve
+- Lowest # of moves
+- 
 ## Important Links
 - [YOLO NAS](https://learnopencv.com/category/object-detection/)
 - 

@@ -64,7 +64,12 @@ High energy -> Low energy (this chapter)
 - [[Mole Fraction]]
 - [[Maxwell-Botlzmann Speed Distribution]]
 - [[Real vs Ideal Gases]]
+
+## Unit 10
+
+- [[Intra vs Intermolecular Forces]]
 - 
+
 ## Khan Academy
 
 Taking this course my grade 12 year and I want to get a headstart on it hence I will be studying and watching lessons
