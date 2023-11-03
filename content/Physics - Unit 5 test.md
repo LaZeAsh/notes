@@ -9,3 +9,10 @@ tags:
 4. [[Village Idiot Method]]
 5. Question # 2 on the circular motion problem
 6. He's gonna ask which attracts the other more the moon or the earth, answer it's the same 
+7. Compare often means ratio
+8. is means equal
+9. Homework problems and "plug and chugs" going to be on the test
+10. Straight plug and chug on the test
+11. Answer to one question on the test is elipse
+12. Answer to another one will be sin or cosine
+13. 

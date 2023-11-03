@@ -68,7 +68,10 @@ High energy -> Low energy (this chapter)
 ## Unit 10
 
 - [[Intra vs Intermolecular Forces]]
-- 
+- [[London Dispersion Forces]]
+- [[ion-dipole attraction]]
+- [[dipole-dipole attraction]]
+- [[Hydrogen Bonding]]
 
 ## Khan Academy
 
