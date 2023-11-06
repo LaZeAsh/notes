@@ -15,3 +15,5 @@ I am going to be overtime going over what I believe are common problems that peo
 - [[Self Responsibility]]
 - [[Excuses|Excuse]]
 - [[Doubt]]
+- [[Believing]]
+- 

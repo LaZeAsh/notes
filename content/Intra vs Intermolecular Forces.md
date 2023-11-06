@@ -3,6 +3,8 @@ title: Intra vs Intermolecular Forces
 tags:
   - AP
   - Chemistry
+aliases:
+  - IMF
 ---
 Learned this in [[AP Chemistry]]
 
@@ -57,3 +59,16 @@ intermolecular attraction = 146 kJ/mol
 - Polarizability - the ease with which an electron cloud can be deformed
 - More electrons = more polarizable -> more instantaneous dipoles -> more LDF's
 - larger molecules (the greater the # of e$^-$) are more polarizable
+
+## Trends
+The stronger the forces between the particles:
+
+- the higher the melting point.
+    
+- the higher the boiling point.
+    
+- the lower the vapor pressure.
+    
+- the greater the viscosity.
+    
+- the greater the surface tension.

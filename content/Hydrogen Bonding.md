@@ -8,4 +8,6 @@ Introduced to this in [[AP Chemistry]]
 
 ## What is it
 
-It's not a type of bond it's a force, A hydrogen atom bonded to N, O, or F is bonded to another molecule's N, O or F atom
+This is the strongest of all of the intermolecular forces and is responsible for the freakishly high boiling point of molecules such as water (H₂O) and ammonia (NH₃).
+
+In order to have hydrogen bonding between molecules, you must have an H covalently bonded to an F, O, or N.
