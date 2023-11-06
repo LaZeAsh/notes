@@ -7,7 +7,7 @@ If I don't believe in myself then who will?
 
 ## College Admissions
 
-I always think that I won't get into any of the university I apply to but if I myself don't truly believe that then why will a total stranger believe me?
+I always think that I won't get into any of the university I apply to but if I myself believe that then why will a total stranger believe I am qualified?
 
 I think partially the reason is because I have acknowledged that there's someone better always out there, someone who's put more work, someone who's just better in every way possible and while that's true have I not put in any work?
 
