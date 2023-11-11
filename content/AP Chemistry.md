@@ -74,6 +74,7 @@ High energy -> Low energy (this chapter)
 - [[Hydrogen Bonding]]
 - [[Vapor Pressure]]
 - [[Boiling Point]]
+- [[Types of Solids]]
 - 
 
 ## Khan Academy

@@ -3,7 +3,6 @@ title: "100 million checque"
 tags:
 - Mindset
 ---
-
 ## Situation
 
 If someone told you that there's a check for 100 million dollars waiting for you on the other side of the planet and you had 48 hours to claim it otherwise the check would be ripped, what would you do?
