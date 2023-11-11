@@ -1,7 +1,4 @@
 ---
 title: ""
-aliases:
-tags:
-- 
 ---
 
