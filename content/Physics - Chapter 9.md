@@ -23,8 +23,10 @@ Newton's law of gravity describes that all objects in the universe attract all o
 
 ### Kepler's First Law
 - Kepler discovered that the orbit of Mars was elliptical 
+This law states that planets move in elliptical orbits with the Sun at one of the two foci. This means that the shape of a planet's orbit around the sun is not a perfect circle but an ellipse, where the Sun occupies a position off-center.
 
 ### Kepler's Second Law
+According to this law, a line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time. This implies that a planet moves faster when it is closer to the Sun and slower when it is farther from the Sun. This is because the gravitational pull of the Sun is stronger when the planet is closer, causing it to accelerate, and weaker when the planet is farther, causing it to decelerate.
 
 ### Kepler's Third Law
 
