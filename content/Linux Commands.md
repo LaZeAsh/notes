@@ -1,5 +1,5 @@
 ---
-title: "Linus Commands"
+title: Linux Commands
 ---
 *All important linux commands to know*
 
