@@ -75,8 +75,12 @@ High energy -> Low energy (this chapter)
 - [[Vapor Pressure]]
 - [[Boiling Point]]
 - [[Types of Solids]]
-- 
 
+
+## Spectrophotometry
+
+- [[Spectrophotometry Khan Academy]]
+- 
 ## Khan Academy
 
 Taking this course my grade 12 year and I want to get a headstart on it hence I will be studying and watching lessons
