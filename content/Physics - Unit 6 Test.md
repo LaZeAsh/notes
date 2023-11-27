@@ -1,7 +1,7 @@
 ---
-title: 
-aliases: 
+title: Physics - Unit 6 Test
 tags:
+  - Physics
 ---
 
 1. On the test he's going to ask where the center of gravity / center of mass is. if it's not moving it's a vertical line 
