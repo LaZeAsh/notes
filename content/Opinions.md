@@ -13,7 +13,7 @@ Why do I say opinions can be dangerous? I believe a lot of people in the modern 
 
 I say "accurate" and "inaccurate" because although by definition an opinion cannot be right or wrong the evidence for the opinion isn't whole.
 
-For example, if I form an opinion about person X based of a fact that I disagree with that person X agrees with then my opinion about person X would be a lot different than if I got to know person X as a whole and view their personality as a whole rather than cherrypicked bits and pieces
+For example, if I form an opinion about person X based of a fact that I disagree with something that person X agrees with then my opinion about person X would be a lot different than if I got to know person X as a whole and view their personality as a whole rather than cherrypicked bits and pieces
 
 Now I have a misinterpreted view on person X and it's really hard to think differently as my brain will keep trying to find reasons to support my original opinion
 

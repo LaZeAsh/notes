@@ -58,4 +58,16 @@ Physics is my 3rd period class in [[Grade 12]] taught by [[Christopher Gibbons|M
 ## Unit 6: Rotation
 
 - [[Physics - Unit 6 Test]]
+
+### Readings
+
+- [[Physics - Chapter 7]]
 - 
+## Unit 7: Energy
+
+- [[Physics - Unit 7 Test]]
+- 
+## Final
+
+- How many different ways can you write units of work
+- How many different ways can you write units of power
