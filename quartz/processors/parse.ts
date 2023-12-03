@@ -104,6 +104,8 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
           console.log(`[process] ${fp} -> ${file.data.slug} (${perf.timeSince()})`)
         }
       } catch (err) {
+        // for testing purposes use continue
+        // continue;
         trace(`\nFailed to process \`${fp}\``, err as Error)
       }
     }
