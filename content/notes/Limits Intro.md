@@ -19,7 +19,7 @@ the line approaches 5 both left and right when x = 3 $\therefore$ the limit of f
 
 The limit of f at x = value is result
 
-![[images/Pasted image 20230718191020.png]]
+![[Pasted image 20230718191020.png]]
 
 The symbol lim means we're taking a limit of something
 
