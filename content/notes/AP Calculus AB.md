@@ -11,7 +11,7 @@ This course is being taught by [[Jennifer Kelly|Mrs.Kelly]]
 I am currently using the [Khan Academy](https://www.khanacademy.org/math/ap-calculus-bc) curriculum
 All the work for this course has been done on [good notes](https://share.goodnotes.com/s/3MyJ4ctjUc4RpfrtEAiwij)
 
-Learning logs for this course will be written in [[AP Calculus BC Logs]]
+Learning logs for this course will be written in [[AP Calculus AB Logs]]
 
 ## Unit 1 Limits and Continuity
 

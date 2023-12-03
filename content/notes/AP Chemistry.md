@@ -80,11 +80,14 @@ High energy -> Low energy (this chapter)
 ## Spectrophotometry
 
 - [[Spectrophotometry Khan Academy]]
-- 
-
 - Microwave makes it rotate
 - Ultraviolet, Visible Electron transition
 - XRays have enough energy to break bonds
+
+## Unit 11
+- [[Factors Affecting Solubility]]
+- 
+
 ## Khan Academy
 
 Taking this course my grade 12 year and I want to get a headstart on it hence I will be studying and watching lessons
