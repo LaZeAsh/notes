@@ -34,7 +34,7 @@ Lower temperatures -> gas particles move slower -> spend more time interacting w
 
 - Polar molecules deviate most from ideal behavior
 
-![[images/AP Chemistry-51.jpg]]
+![[AP Chemistry-51.jpg]]
 
 ## Differences
 

@@ -10,4 +10,4 @@ To learn what an empirical formula is refer to [[Empirical, molecular, and struc
 
 73% Hg and 27% Cl how would you do it
 
-![[images/AP Chemistry-4.jpg]]
+![[AP Chemistry-4.jpg]]

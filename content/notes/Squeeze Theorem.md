@@ -20,5 +20,5 @@ will also be true, which is common sense.
 
 ## Khan Academy Screenshot
 
-![[images/Pasted image 20230803125021.png]]
+![[Pasted image 20230803125021.png]]
 

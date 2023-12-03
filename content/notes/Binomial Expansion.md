@@ -14,4 +14,4 @@ r = 6 - 1
 
 ## Example
 
-![[images/CV-11.jpg]]
+![[CV-11.jpg]]

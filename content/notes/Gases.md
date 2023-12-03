@@ -39,7 +39,7 @@ He: 0.0005% of Earth's Atmosphere
 - compressibility 
 
 ## Quantitative Properties of Gases
-![[images/Pasted image 20230109085432.png]]
+![[Pasted image 20230109085432.png]]
 ## Kinetic Molecular Theory
 - The volume of individual gas molecules is negligible compared to the volume of the container holding the gas. Gas molecule are, therefore, extremely far apart and most of the container is empty space
 - There are neither attractive nor repulsive forces between gas molecules

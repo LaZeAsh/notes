@@ -20,6 +20,6 @@ This would be an example of enthalpy of formation
 Enthalpy of formation for any element in its standard state is zero
 ## Standard Enthalpies of Formation
 
-![[images/Pasted image 20230901135830.png]]
+![[Pasted image 20230901135830.png]]
 
 *Only the formula of the product is included if you need a balanced chemical equation you're going to have to generate it yourself*

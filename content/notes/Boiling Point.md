@@ -14,6 +14,6 @@ Introduced to this in [[AP Chemistry]]
 	- Increase temperature
 	- Decrease pressure
 
-![[images/Pasted image 20231106135728.png]]
+![[Pasted image 20231106135728.png]]
 
 

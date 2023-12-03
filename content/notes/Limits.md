@@ -5,10 +5,10 @@ tags:
 ---
 ## Strategy
 
-![[images/Pasted image 20230803121917.png]] 
+![[Pasted image 20230803121917.png]] 
 ## Notation
 
-![[images/Pasted image 20230718191020.png]]
+![[Pasted image 20230718191020.png]]
 
 ## Rules
 1. lim k = k, for any constant
@@ -53,8 +53,8 @@ Limit may exist even if the point is undefined (eg: If f(3) = undefined a limit 
 We are talking about the values that f(x) takes when x gets closer and closer to 1 and not f(1). In fact, we may talk about the limit of f(x) as x approaches “a” even when f(x) is undefined,
 
 ## Book definition
-![[images/Pasted image 20230216104845.png]]
+![[Pasted image 20230216104845.png]]
 
 ## Example
 
-![[images/CV-16.jpg]]
+![[CV-16.jpg]]

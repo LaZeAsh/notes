@@ -27,5 +27,5 @@ x -> a
 
 ## Example Problems
 
-![[images/AP Calc BC-9.jpg]]
+![[AP Calc BC-9.jpg]]
 

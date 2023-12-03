@@ -15,7 +15,7 @@ For big items (like a car) unless you are haggling over ~1k+ I believe it's not 
 
 This might be worth it if your time isn't worth anything but in my opinion the time and convenience isn't worth it. I might also be whining because I was about to buy a 2000 Mazda Miata NB1 and the deal fell through because of a haggle war over $500 USD.
 
-![[images/Pasted image 20230806235334.png]]
+![[Pasted image 20230806235334.png]]
 
 Oh beautiful Mazda Miata, I really liked this car. It drove well, it was local, the dude selling it was nice, and most important of all it's a MANUAL
 

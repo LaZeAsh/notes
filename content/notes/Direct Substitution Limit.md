@@ -8,7 +8,7 @@ title: "Direct Substitution Limit"
 - If $\frac{0}{0}$ is returned then it's [[Indeterminate Form]] and direct substitution cannot be used
 
 ## Example
-![[images/Pasted image 20230221142627.png]]
+![[Pasted image 20230221142627.png]]
 
 ## Exception
 

@@ -10,9 +10,9 @@ There's a difference between the value a function is approaching -- what we call
 lim f(x) $\ne$ f(0) **This is not always the case**
 x -> 0
 
-![[images/Pasted image 20230718193243.png]]
+![[Pasted image 20230718193243.png]]
 
-![[images/Pasted image 20230718193303.png]]
+![[Pasted image 20230718193303.png]]
 
 **Remember just because a function is undefined for some x-value doesn't mean there's no limit**
 

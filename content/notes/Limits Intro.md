@@ -27,7 +27,7 @@ The symbol lim means we're taking a limit of something
 
 f(x) = x + 2 as the x-values get very close to 3 (we do not care about f(3) itself)
 
-![[images/Pasted image 20230718191259.png]]
+![[Pasted image 20230718191259.png]]
 
 In limits, we don't want to get infinitely big, but infinitely close. When we say lim f(x) = 5 we mean we can always get closer and closer to 5
 	x -> 3

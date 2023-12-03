@@ -22,7 +22,7 @@ e > 1
 
 the vertex is a units left a units right from origin
 
-![[images/IMG_2434.jpg]]
+![[IMG_2434.jpg]]
 
 ## Vertical Hyperbole
 

@@ -14,7 +14,7 @@ Vapor pressure is a physical property that's a result of IMFs
 *for AP Chemistry we're going to be focusing on liquids not solids*
 
 Rate of vaporization = rate of condensation
-![[images/Pasted image 20231106132143.png]]
+![[Pasted image 20231106132143.png]]
 ## Vapor Pressure (Molecular Level)
 Vapor Pressure on the Molecular Level
 - Some molecules on the surface of a liquid escape the attraction of the IMFs: liquid -> gas phase
@@ -23,7 +23,7 @@ Vapor Pressure on the Molecular Level
 - Dynamic Equilibrium: The point when as many molecules escape the surface  as strike the surface and return to the liquid layer
 - P$_{vap}$ = $\triangle$ Height (mmHg)
 
-![[images/Pasted image 20231106132652.png]]
+![[Pasted image 20231106132652.png]]
 
 ## Volatility and Vapor Pressure
 

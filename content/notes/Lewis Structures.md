@@ -28,5 +28,5 @@ Bond order is a measure of the number of shared electron pairs between two atoms
 Ayush's terms: Bond order is the number of bonds that are "shared" in the double bond / number of atoms 
 
 ## Example
-![[images/AP Chemistry-30.jpg]]
-![[images/AP Chemistry-31.jpg]]
+![[AP Chemistry-30.jpg]]
+![[AP Chemistry-31.jpg]]

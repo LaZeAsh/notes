@@ -35,4 +35,4 @@ Both left and right side equal 2 $\therefore$ the limit as x -> 4 is 2!
 
 ## Worked Examples
 
-![[images/AP Calc BC-10.jpg]]
+![[AP Calc BC-10.jpg]]

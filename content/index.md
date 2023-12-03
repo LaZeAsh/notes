@@ -51,7 +51,7 @@ Browse My Mind:
 ⚠️ By no means are my notes perfect, I learn differently and view things differently than other people and therefore I recommend you take what you see with a [[Grain of salt |grain of salt]] 
 
 ## In Times Gone By ⏳
-![[images/IMG_4101.jpg]]
+![[IMG_4101.jpg]]
 <center><i><p>Picture with Tom Matano in front of my Miata (I look horrible as I had just woken up)</p></i></center>
 
 

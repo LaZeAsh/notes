@@ -24,4 +24,4 @@ $\theta$ -> $\frac{-\pi}{4}$
 **
 ## Worked Examples
 
-![[images/AP Calc BC-14.jpg]]
+![[AP Calc BC-14.jpg]]

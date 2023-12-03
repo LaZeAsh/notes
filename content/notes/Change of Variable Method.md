@@ -8,4 +8,4 @@ title: "Change of Var Method"
 - Use [[Direct Substitution Limit]] again to check what's being approached
 
 ## Example
-![[images/CV-20.jpg]]
+![[CV-20.jpg]]

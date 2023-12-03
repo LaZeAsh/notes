@@ -12,4 +12,4 @@ title: "Synthetic Division"
 
 ## Method
 
-![[images/Pasted image 20230306085224.png]]
+![[Pasted image 20230306085224.png]]

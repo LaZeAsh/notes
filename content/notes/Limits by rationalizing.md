@@ -20,4 +20,4 @@ x -> -1
 
 ## Solved Examples
 
-![[images/AP Calc BC-13.jpg]]
+![[AP Calc BC-13.jpg]]

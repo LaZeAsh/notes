@@ -18,4 +18,4 @@ tags:
 
 ## Cheat Sheet
 
-![[images/IMG_4314.jpg]]
+![[IMG_4314.jpg]]

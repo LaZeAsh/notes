@@ -9,4 +9,4 @@ title: "Multiplying by Conjugate"
 
 ## Example
 
-![[images/CV-19.jpg]]
+![[CV-19.jpg]]

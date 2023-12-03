@@ -7,7 +7,7 @@ Dedicate one hour a day to learning, five days per week
 ## Result of taking out 1 hour a day
 
 Results in accomplishing less in terms of short term productivity, constant learning is a long term investment
-![[images/Pasted image 20230215120607.png]]
+![[Pasted image 20230215120607.png]]
 
 
 

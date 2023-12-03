@@ -5,4 +5,4 @@ tags:
   - Calculus
 ---
 
-![[images/Pasted image 20231020145328.png]]
+![[Pasted image 20231020145328.png]]

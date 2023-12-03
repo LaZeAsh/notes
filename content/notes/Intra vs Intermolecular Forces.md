@@ -20,7 +20,7 @@ Intermolecular Force - attraction between adjacent molecules
 
 ## Graphs
 
-![[images/Pasted image 20231031132814.png]]
+![[Pasted image 20231031132814.png]]
 
 bond energy = 431 kJ/mol
 intermolecular attraction = 146 kJ/mol
@@ -30,7 +30,7 @@ intermolecular attraction = 146 kJ/mol
 - Forces that exist between neutral (no charge) polar molecules
 - Attraction between $\delta^+$ and $\delta^-$ ends of different molecules
 
-![[images/Pasted image 20231031133406.png]]
+![[Pasted image 20231031133406.png]]
 
 ### Hydrogen Bonding
 
@@ -41,7 +41,7 @@ intermolecular attraction = 146 kJ/mol
 - Strength:
 	- hydrogen bonds > dipole-dipole bonds
 
-![[images/Pasted image 20231031135347.png]]
+![[Pasted image 20231031135347.png]]
 
 ### London Dispersion Forces (LDF)
 

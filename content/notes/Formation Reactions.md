@@ -26,5 +26,5 @@ $\triangle$ H = -110.53 kJ
 
 More examples and non-examples:
 
-![[images/Pasted image 20230901135115.png]]
+![[Pasted image 20230901135115.png]]
 

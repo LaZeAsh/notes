@@ -25,6 +25,6 @@ If the helicopter is pushing air down according to Newton's 3rd law it's being p
 
 F$_{net}$ = m$_{total}$ a = F$_t$ - mg
 
-![[images/IMG_4216.jpg]]
+![[IMG_4216.jpg]]
 
 See this method in "Elevator Problems"

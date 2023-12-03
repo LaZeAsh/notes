@@ -6,4 +6,4 @@ title: "Factoring Method Limit"
 - Factor what's factorable and eliminate
 - Use [[Direct Substitution Limit]] method again to check what's being approached
 ## Example
-![[images/CV-19.jpg]]
+![[CV-19.jpg]]

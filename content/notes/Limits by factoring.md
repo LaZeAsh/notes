@@ -19,4 +19,4 @@ x -> 2
 
 ## Worked Examples
 
-![[images/AP Calc BC-12.jpg]]
+![[AP Calc BC-12.jpg]]

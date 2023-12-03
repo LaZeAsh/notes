@@ -13,4 +13,4 @@ Why?
 
 [[University of Toronto]]
 
-![[images/TTSF.jpeg]]
+![[TTSF.jpeg]]

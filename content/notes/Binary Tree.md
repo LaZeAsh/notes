@@ -12,7 +12,7 @@ From what I can tell these solutions all don't follow the same rules
 
 ## Example
 
-![[images/Pasted image 20230225101728.png]]
+![[Pasted image 20230225101728.png]]
 
 
 ## Use cases
