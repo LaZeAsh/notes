@@ -3,7 +3,7 @@ title: "Stutter Less"
 ---
 ## Background
 
-[[_index |I]] have stuttered since I was young and usually it's controllable if I am having an interview with someone or having a professional well paced conversation, but when I start having a conversation where I have to think fast on the spot and don't have much time that's when the stuttering begins. As I progress in life I will encounter these situations more often and to 
+[[index|I]] have stuttered since I was young and usually it's controllable if I am having an interview with someone or having a professional well paced conversation, but when I start having a conversation where I have to think fast on the spot and don't have much time that's when the stuttering begins. As I progress in life I will encounter these situations more often and to 
 
 ## What is Stuttering?
 

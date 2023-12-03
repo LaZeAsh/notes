@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "ayushgarg.ca",
+    baseUrl: "lazeash.github.io",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
     theme: {
