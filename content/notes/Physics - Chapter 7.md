@@ -54,4 +54,4 @@ title: Physics - Chapter 7
 - Completely inelastic collisions: objects stick together after colliding
 - Momentum conservation applies to all collisions
 - Total momentum of 2 objects is the sum of mass times velocity for each object
-- Equation: $\overrightarrow{P}_{total}$ = m$_1$$\overrightarrow{v}_1$ +  m$_2$$\overrightarrow{v}_2$
+- Equation: $\overrightarrow{P}_{total}$ = m$_1\overrightarrow{v}_1$ +  m$_2\overrightarrow{v}_2$
