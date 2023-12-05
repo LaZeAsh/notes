@@ -2,7 +2,6 @@
 title: "75 Hard"
 ---
 ## What is the 75 Hard?
-## 76 Hard
 
 The 75 Hard challenge was created in 2019 by entrepreneur Andy Frisella. 75 Hard is not a fitness challenge, but a "transformative mental toughness program" according to the program's website
 
