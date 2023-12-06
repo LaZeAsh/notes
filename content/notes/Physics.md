@@ -1,7 +1,9 @@
 ---
-title: "Physics"
+title: Physics
 tags:
-- Grade 12
+  - Grade
+  - "12"
+  - Physics
 ---
 
 Physics is my 3rd period class in [[Grade 12]] taught by [[Christopher Gibbons|Mr.Gibbons]] 

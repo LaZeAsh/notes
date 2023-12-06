@@ -86,6 +86,7 @@ High energy -> Low energy (this chapter)
 
 ## Unit 11
 - [[Factors Affecting Solubility]]
+- [[Chromatography]]
 - 
 
 ## Khan Academy
