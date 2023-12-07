@@ -28,7 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.RecentNotes({title: "Recently Updated", limit: 5})),
+    Component.DesktopOnly(Component.RecentNotes({title: "Recently Updated", limit: 4})),
   ],
   right: [
     Component.Graph(),
