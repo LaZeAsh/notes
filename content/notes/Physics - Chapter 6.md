@@ -55,4 +55,3 @@ title: Physics - Chapter 6
 	- P = $\frac{W}{t}$
 	- SI Units: J/s = watt (W)
 - 1 watt = 1 W = 1 J/s
-- 
