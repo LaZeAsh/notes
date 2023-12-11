@@ -31,6 +31,7 @@ title: Physics - Chapter 6
 - Kinetic Energy = $\frac{1}{2}$(mass) x (velocity)$^2$
 	- KE = $\frac{1}{2}$mv$^2$
 	- SI Units: kg x $\frac{m^2}{s^2}$ = J
+- $\triangle$ KE = $\frac{1}{2}$mv$_f^2$ - $\frac{1}{2}$mv$_i^2$ 
 - `Kinetic energy` of an object is due to its motion, Kinetic energy is measured in joule (same as work)
 - A ball resting on a shelf has zero kinetic energy but it has potential energy because the work done to lift the ball hasn't been lost and if it fell off of the shelf gravity would do the same amount of work on the way down
 - Energy that is stored for later is `Potential Energy`
