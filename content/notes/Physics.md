@@ -71,6 +71,11 @@ Physics is my 3rd period class in [[Grade 12]] taught by [[Christopher Gibbons|M
 ### Readings
 
 - [[Physics - Chapter 6]]
+
+## Modern Physics
+
+- [[Physics - Modern Physics]]
+- 
 ## Final
 
 - How many different ways can you write units of work
