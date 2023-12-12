@@ -12,6 +12,6 @@ If f'(a) = 0 and f''(a) > 0 then f has a Minimum
 
 If f'(a) = 0 and f''(a) < 0 then f has a Maximum
 
-If `f` is differentiable at `x=a`, then `f` has a local minimum at `x=a` on the domain $\left(b,\ c\right)$ if $f'\left(a\right)=$ **0** and $f''\left(a\right)$**> 0**.
+If `f` has a local minimum at `x=a` on the domain $\left(b,\ c\right)$ $f'\left(a\right)=$ **0** and $f''\left(a\right)$**> 0**.
 
 
