@@ -14,3 +14,4 @@ title: Physics - Unit 7 Test
 - Which quantity is affected by friction: F$_r$ 
 - We don't use machine to do less work
 	- We do more work overtime
+- Couple of questions from Penguin, Monkeys, Etc lab
