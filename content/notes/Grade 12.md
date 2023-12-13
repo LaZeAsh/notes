@@ -1,5 +1,8 @@
 ---
-title: "Grade 12"
+title: Grade 12
+aliases:
+  - Grade
+  - "12"
 ---
 Grade 12 is an important aspect of everyone's high school career, it's the final year of high school which a lot of the times is a relieve for a lot of people but also a stressing moment as this is when all of the college decisions are released
 
@@ -12,7 +15,7 @@ Courses:
 - [[Expos reading & writing]]
 - [[Physics]]
 - [[Economics]]
-- [[Advanced Computer Science]]
+- [[AP Chemistry]]
 - [[AP Calculus AB]]
 
 Day School:
@@ -24,6 +27,3 @@ US History (prerequisite for graduation)
 Physics (prerequisite for UWaterloo)
 Macro and Economics (prerequisite for graduation)
 
-Distance Learning:
-
-AP Physics 1 (prerequisite for UWaterloo)
