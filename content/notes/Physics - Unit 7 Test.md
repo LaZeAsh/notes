@@ -40,3 +40,5 @@ title: Physics - Unit 7 Test
 	- solid gets down the hill first; smaller moment of inertia
 	- hollow = rotational
 	- solid = translational
+
+![[notes/images/IMG_4731.jpg]]
