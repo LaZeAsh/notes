@@ -33,3 +33,10 @@ title: Physics - Unit 7 Test
 - P = $\frac{work}{t}$ (watts)
 - Conservation of energy equation:  
 - Momentum = mass x velocity
+- AMA = MA = $\frac{F_r}{F_e}$
+- IMA = F$_r$d$_r$ = F$_e$d$_e$ -> $\frac{F_r}{F_e}$ = **$\frac{d_e}{d_r}$
+- efficiency = $\frac{MA}{IMA}$ * 100%
+- solid ball vs hollow ball
+	- solid gets down the hill first; smaller moment of inertia
+	- hollow = rotational
+	- solid = translational
