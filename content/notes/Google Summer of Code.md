@@ -1,4 +1,4 @@
----
+**---
 title: Google Summer of Code
 aliases:
   - GSOC
