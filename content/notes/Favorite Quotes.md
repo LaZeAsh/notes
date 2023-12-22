@@ -12,3 +12,5 @@ title: "Fav Quotes"
 "the pain of trying is not as painful as the regret of not trying at all"
 
 "I hope everybody having a good day, hope everybody accomplished something significant. Even if you didn't accomplish something significant don't be discouraged just aim to accomplish something significant tomorrow and the next and so on" - Juice WRLD
+
+"Why does everybody knowing something make it right" - Shelden Lee Cooper (Young Sheldon)

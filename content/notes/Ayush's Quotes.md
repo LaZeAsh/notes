@@ -9,4 +9,3 @@ tags:
 - I dislike many things in life but the one thing I hate is when people blame others for their own incompetence
 
 - If you're not giving your 100% into everything then what are you doing?
-
