@@ -10,4 +10,3 @@ tags:
 
 - If you're not giving your 100% into everything then what are you doing?
 
-- "I hope everybody having a good day, hope everybody accomplished something significant. Even if you didn't accomplish something significant don't be discouraged just aim to accomplish something significant tomorrow and the next and so on" - Juice WRLD
