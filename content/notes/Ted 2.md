@@ -1,5 +1,7 @@
 ---
 title: "Ted 2"
+tags:
+- Movies
 ---
 Ted 2 is the sequel of [[Ted]]
 
