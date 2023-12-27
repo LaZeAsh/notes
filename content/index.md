@@ -13,29 +13,6 @@ I'm a high school senior at Foothill High School in California who's interested 
 - I have previously been offered a job at [[Cohere]] as an Intern of Technical Staff
 - I love to workout 🏋️ love cars (checkout [[Miata]]) 🚗 and enjoy playing badminton 🏸
 
-<div class="custom-layout">
-    <div class="item">
-        <p>Currently learning:</p>
-        <blockquote>
-            - [[AP Calculus AB]]
-            <br>
-            - [[AP Chemistry]]
-        </blockquote>
-    </div>
-    <div class="item">
-        <p>Quote that inspires me:</p>
-        <blockquote>
- If you only do what you can do you will never be more than you are now - Master Shifu (Kung Fu Panda 3)
-        </blockquote>
-    </div>
-    <div class="item">
-        <p>Currently Reading:</p>
-        <blockquote>
-			[[Sun Tzu The Art of War|Sun Tzu: The Art of War]]
-        </blockquote>
-    </div>
-</div>
-
 ## My Mind 🧠
 
 I started taking notes on [[Obsidian]] on October 15, 2022 
