@@ -2,4 +2,4 @@
 title: "Ayush"
 ---
 
-Check out my [[r|resume]]
+Check out my [[Resume|resume]]
