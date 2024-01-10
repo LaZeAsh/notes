@@ -87,8 +87,11 @@ High energy -> Low energy (this chapter)
 ## Unit 11
 - [[Factors Affecting Solubility]]
 - [[Chromatography]]
-- 
 
+## Unit 5
+
+- [[Chemical Kinetics]]
+- 
 ## Khan Academy
 
 Taking this course my grade 12 year and I want to get a headstart on it hence I will be studying and watching lessons
