@@ -17,6 +17,8 @@ Courses:
 - [[Economics]]
 - [[AP Chemistry]]
 - [[AP Calculus AB]]
+- [[AP Physics C]]
+- 
 
 Day School:
 
