@@ -57,7 +57,9 @@ Quadruple \[ClO$_2$] with \[F$_2$] constant -> Rate quadruple -> y = 1
 - Rate laws are always determined experimentally
 - The order of a reactant is not related to the stoichiometric coefficient of the reactant in the balanced chemical equation
 
-### Concentration and rate
+### Units for the rate constant
+
+![[Pasted image 20240110203523.png]]
 
 #### Chemical concept of a reaction
 
