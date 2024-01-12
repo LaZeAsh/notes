@@ -91,6 +91,7 @@ High energy -> Low energy (this chapter)
 ## Unit 5
 
 - [[Chemical Kinetics]]
+- [[Collision Theory]]
 - 
 ## Khan Academy
 
