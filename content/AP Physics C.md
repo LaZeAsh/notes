@@ -8,6 +8,9 @@ A course I am auditing in [[Grade 12]]
 
 ### Notes
 
+[[Gauss's Law]]
+
+
 [[Electric Fields]]
 
 
