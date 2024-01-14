@@ -77,7 +77,7 @@ Only resource is crumb which will be gained passively
 - Is more adept at performing heal actions
 - Cannot be multiple duck variants at one time
 
-## Traps
+### Traps
 
 Traps can be built by the ducks using crumbs
 
@@ -93,11 +93,11 @@ Stuns all enemy ducks within a radius
 
 Harm all enemy ducks in a certain radius
 
-## Bread
+### Bread
 
 Flag that you're protecting and the flag you want to obtain from the opposing team
 
-## Global Upgrades
+### Global Upgrades
 
 - Each team gets **one** upgrade point every 750 rounds
 - Applies to all ducks, and each upgrade can be activated once
