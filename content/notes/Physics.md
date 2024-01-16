@@ -81,6 +81,11 @@ Physics is my 3rd period class in [[Grade 12]] taught by [[Christopher Gibbons|M
 - How many different ways can you write units of work
 - How many different ways can you write units of power
 
-## Unit 8 
+## Unit 8 - Thermodynamics / Fluids
+
+### Readings
+
+- [[Physics - Chapter 10]]
+- 
 
 [[Physics - Unit 8 test]]
