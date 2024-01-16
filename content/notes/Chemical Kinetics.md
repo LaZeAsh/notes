@@ -56,6 +56,46 @@ Quadruple \[ClO$_2$] with \[F$_2$] constant -> Rate quadruple -> y = 1
 - Reaction order is always defined in terms of reactant (not product) concentrations
 - Rate laws are always determined experimentally
 - The order of a reactant is not related to the stoichiometric coefficient of the reactant in the balanced chemical equation
+### Integrated Rate Law
+Concentration and time data
+
+Must graph data to determine the order of the rxn
+
+| Order  | Linear Graph:                     |
+|--------|-----------------------------------|
+| Zero   | [concentration] vs. time          |
+| First  | ln [concentration] vs. time       |
+| Second | 1/\[concentration] vs. time        |
+
+#### First-Order Reactions
+
+rate = k\[A] 
+
+After integration you get \[A] = \[A]$_0$e$^{-kt}$
+
+ln\[A] = -kt + ln\[A]$_0$
+
+\[A] is the concentration of A at any time t
+\[A]$_0$ is the concentration of A at time t = 0
+
+The `half-life`, t$_\frac{1}{2}$ is the time required for the concentration of a reactant to decrease to half of its initial concentration
+
+t$_\frac{1}{2}$ = $\frac{ln 2}{k}$ = $\frac{0.693}{k}$ (3 significant digits)
+
+*Half life does NOT depend on the concentration (\[A])*
+
+#### Second-Order Reactions
+
+rate = k\[A]$^2$
+
+$\frac{1}{[A]}$ = kt + $\frac{1}{[A]_0}$  
+
+#### Zero-Order Reactions
+
+rate = k\[A]$^0$ = k
+
+\[A] = -kt + \[A]$_0$ 
+
 
 ### Units for the rate constant
 
