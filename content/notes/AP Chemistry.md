@@ -92,6 +92,7 @@ High energy -> Low energy (this chapter)
 
 - [[Chemical Kinetics]]
 - [[Collision Theory]]
+- [[Reaction Mechanisms]]
 - 
 ## Khan Academy
 
