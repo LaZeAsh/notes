@@ -18,9 +18,9 @@ The sequence of elementary steps that leads to product formation is the `reactio
 
 N$_2$O$_2$ is detected during the reaction
 
-Elementary step: NO + NO $\rightarrow$ N$_2$O$_2$
+Elementary step: NO + NO $\rightarrow$ $\cancel{N_2O_2}$ 
 
-\+ Elementary step: N$_2$O$_2$ + O$_2$ $\rightarrow$ 2NO$_2$
+\+ Elementary step: $\cancel{N_2O_2} + O$$_2$ $\rightarrow$ 2NO$_2$
 
 \---------------------------------------
 
@@ -47,7 +47,7 @@ Elementary Step: NO + NO $\rightarrow$ N$_2$O$_2$
 
 \---------------------------------------
 
-Overall Reaction: 
+Overall Reaction: 2NO + O$_2$ $\rightarrow$ 2NO$_2$
 
 ## Rate Laws and Determining Steps
 
