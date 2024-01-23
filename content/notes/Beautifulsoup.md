@@ -39,8 +39,20 @@ title_tag = soup.title # Gets first instance of the tag "<title>"
 
 all_paragraphs = soup.find_all('p') # Gets all instances of the tag <p>
 
-first_paragraph
+first_paragraph = soup.find('p') # Gets first instance of tag "<p>"
+
+all_links = soup.select('a') # Uses CSS selectors to find elements
 ```
+
+### Extracting Information
+
+```Python
+text = title_tag.get_text() # Extracts content of the tag
+
+link = soup.find('a')
+href = link['href']
+```
+
 
 
 
