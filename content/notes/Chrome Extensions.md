@@ -49,7 +49,9 @@ Example Usage:
 
 ```js
 async function req() {
-	fetch("URL")
+	fetch("URL", {
+	
+	})
 	.then((r) => r.json())
 	.then((data) => console.log(data))
 }
