@@ -1,5 +1,5 @@
 ---
-title: "Fav Quotes"
+title: Fav Quotes
 ---
  "if you only do what you can do you will never be more than **you are now**" - Master Shifu Kung Fu Panda 3
 
@@ -15,4 +15,4 @@ title: "Fav Quotes"
 
 "Why does everybody knowing something make it right" - Shelden Lee Cooper (Young Sheldon)
 
-"Money is on"
+"Money is one of the many paradoxes in life, it can give you nearly everything in life except the one and only thing you need, a better version of you"
