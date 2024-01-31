@@ -93,6 +93,10 @@ High energy -> Low energy (this chapter)
 - [[Chemical Kinetics]]
 - [[Collision Theory]]
 - [[Reaction Mechanisms]]
+
+## Unit 13
+
+- [[Manipulating Equilibrium Constants]]
 - 
 ## Khan Academy
 
