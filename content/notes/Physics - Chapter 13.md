@@ -21,3 +21,8 @@ title: "Physics - Chapter 13"
 
 ![[Pasted image 20240131091345.png]]
 
+## 14.1
+
+- Sound wave is formed when an oscillating object creates alternating regions of compressed and expanded air
+- Speed of sound wave depends on what it moves through
+- 
