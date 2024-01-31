@@ -92,5 +92,9 @@ Physics is my 3rd period class in [[Grade 12]] taught by [[Christopher Gibbons|M
 
 ## Unit 9 - Waves
 
+### Readings
+
+- [[Physics - Chapter 13]]
+- 
 [[Physics - Unit 9 test]]
 
