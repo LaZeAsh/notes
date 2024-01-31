@@ -21,6 +21,19 @@ title: "Physics - Chapter 13"
 
 ![[Pasted image 20240131091345.png]]
 
+## 13.4
+
+- `Resultant Wave` - 2 or more individual waves that overlap and as a result combine
+- `Principle of Superposition` - Resultant wave is sum of individual waves that make it up
+- `Constructive Interference` - When waves combine to form a larger wave
+- `Destructive Interference` - When waves superpose to form a smaller wave
+	- Used to reduce noises in factory, busy offices, and even airplane cabins
+- Interference is one of the key characters that define waves
+- `Standing Wave` - A wave that oscillates in a fixed location
+- `Nodes` - Points on a standing wave that do not move
+- `Antinode` - Maximum displacement between any 2 node points
+- 
+
 ## 14.1
 
 - Sound wave is formed when an oscillating object creates alternating regions of compressed and expanded air
