@@ -32,10 +32,4 @@ title: "Physics - Chapter 13"
 - `Standing Wave` - A wave that oscillates in a fixed location
 - `Nodes` - Points on a standing wave that do not move
 - `Antinode` - Maximum displacement between any 2 node points
-- 
-
-## 14.1
-
-- Sound wave is formed when an oscillating object creates alternating regions of compressed and expanded air
-- Speed of sound wave depends on what it moves through
-- 
+- First-harmonic frequency for a string of length L is f$_1$ = $\frac{v}{2L}$ 
