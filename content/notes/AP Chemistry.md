@@ -97,6 +97,7 @@ High energy -> Low energy (this chapter)
 ## Unit 13
 
 - [[Manipulating Equilibrium Constants]]
+- [[LeChatelier's Principle]]
 - 
 ## Khan Academy
 
