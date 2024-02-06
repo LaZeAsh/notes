@@ -25,3 +25,12 @@ Left:
 1. Adding or removing a gaseous reactant or product
 2. Add an inert gas (a gas not involved in the reaction)
 3. Change the volume of the container
+
+## Catalyst
+
+Adding a catalyst
+- Does not change K
+- Does not shift position of an equilibrium system
+- system will establish equilibrium faster
+
+Catalyst only lowers activation energy for both forward and reverse reactions
