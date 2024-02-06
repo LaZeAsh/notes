@@ -18,3 +18,6 @@ title: "Physics - Chapter 14"
 - `Beat Frequency`- Difference in frequency between two original waves
 	- f$_{beat}$ = | f$_1$ - f$_2$ |
 	- SI Unit: 1/s = s$^{-1}$
+
+## 14.2
+
