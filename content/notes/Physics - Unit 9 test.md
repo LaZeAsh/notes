@@ -11,4 +11,5 @@ title: "Physics - Unit 9 Test"
 5. Draw 3 waves and the reflected wave
 6. Superposition
 7. Draw the paths of the 3 rays and 1 refracted rays
-8. 
+8. Distance to get first max and then multiply by 4 to get wavelength. Frequency is given and find velocity
+9. Reverse arrows of Combined wave equation derivation (snell's law) on the test

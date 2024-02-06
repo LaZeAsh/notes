@@ -20,3 +20,8 @@ Left:
 - Adding Products
 - Removing Reactants
 
+## 3 ways to change pressure
+
+1. Adding or removing a gaseous reactant or product
+2. Add an inert gas (a gas not involved in the reaction)
+3. Change the volume of the container
