@@ -25,7 +25,6 @@ title: "Physics - Chapter 14"
 - First harmonic/Fundamental Frequency = f$_1$ = $\frac{v}{\lambda}$ = $\frac{v}{4L}$ 
 - Second harmonic = 3 $\frac{v}{4L}$ = 3 f$_1$ 
 - Third harmonic = 5 $\frac{v}{4L}$ = 5 f$_1$
-- 
 - `Standing Waves` also form in pipes that open on both ends
 	- They must have an antinode at each end of the pipe
 
