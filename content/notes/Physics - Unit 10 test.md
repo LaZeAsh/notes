@@ -10,3 +10,6 @@ title: "Physics - Unit 10 Test"
 Sound waves have doppler shifts / doppler effect
 
 `Doppler Effect` - Applies to sound light and other waves
+
+Light waves don't diffract very well
+
