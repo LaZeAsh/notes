@@ -100,7 +100,8 @@ High energy -> Low energy (this chapter)
 - [[LeChatelier's Principle]]
 ## Unit 14
 [[Acid-Base Theories]] (for review)
-
+- [[Acids]]
+- 
 ## Khan Academy
 
 Taking this course my grade 12 year and I want to get a headstart on it hence I will be studying and watching lessons
