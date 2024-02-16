@@ -4,6 +4,8 @@ title: "Acids"
 
 Introduced to this in [[AP Chemistry]]
 
+Refer to [[Acid-Base Theories]] if needed
+
 ## Example of a strong acid solution
 
 What is the pH of a 0.50 M solution of HCl
