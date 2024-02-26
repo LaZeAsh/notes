@@ -7,5 +7,5 @@ Introduced to this in [[The Little Book of Deep Learning]]
 
 `Referred to as a supervised learning since value to be predicted which is required during training has to be provided by humans`
 
-Consists of predicting a continuous-valued vector y 
+Consists of predicting a continuous-valued vector y $\in$ $\mathbb{R}^K$ 
 
