@@ -91,7 +91,7 @@ Calculations involving neutralization reactions
 If 15.5 mL of HCl (aq) just neutralizes 25.5 mL of a 0.15 M of Ca(OH)$_2$ (aq), what is the molar concentration of the acid
 
 Givens:
-V$_H$$_C$$_l$ = 15.5 mL  = 0.0155
+V$_{HCl}$ = 15.5 mL  = 0.0155
 V$_C$$_a$$_($$_O$$_H$$_)$ = 25.5 mL = 0.0255 L
 C$_C$$_a$$_($$_O$$_H$$_)$  = 0.15 mol / L 
 
