@@ -9,6 +9,7 @@ title: "Physics - Unit 10 Test"
 4. Red is 700 nm and Blue is 400 nm on the test
 5. He will mix up units
 6. will be given unit of conversion on the test/board
+7. 1 of the questions will have inches
 
 Sound waves have doppler shifts / doppler effect
 
