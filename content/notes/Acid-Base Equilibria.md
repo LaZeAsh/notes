@@ -42,11 +42,3 @@ Applying the ideology of [[LeChatelier's Principle]]
 
 If ratio of conjugates the pH changes
 
-
-
-
-
-
-
-
-
