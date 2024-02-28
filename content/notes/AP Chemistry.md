@@ -104,6 +104,7 @@ High energy -> Low energy (this chapter)
 - [[Bases]]
 ## Unit 15
 - [[Acid-Base Equilibria]]
+- [[Henderson-Hasselbach Equation]]
 - 
 ## Khan Academy
 
