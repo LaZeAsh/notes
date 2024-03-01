@@ -42,6 +42,7 @@ pK$_b$ = - logK$_b$
 
 pH = pK$_a$ + log$\frac{[A^-]}{[HA]}$
 
+
 - pH of a buffered solution is determined by the K$_a$ and the ratio $\frac{[A^-]}{[HA]}$ 
 - Capacity of a buffered solution is determined by the magnitude of both \[A$^-$] and \[HA]
 	- greater concentration of \[A$^-$] and \[HA] = greater amount of strong acid/base can be added with minimal pH change
