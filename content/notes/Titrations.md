@@ -76,3 +76,52 @@ NH$_3$ + H$^+$ $\rightarrow$ NH$_4^+$
 	- Acid is neutralized; Need K$_b$ for conjugate base equilibrium pH > 7
 - Strong Acid vs Weak Base
 	- Base is neutralized; Need K$_a$ for conjugate acid equilibrium pH < 7
+
+
+## Titration Problems - finding the pH of the solution
+
+1. Write the net ionic equation
+2. Stoichiometry problem - react the strong acid/base
+	1. Moles (or millimoles = Molarity x mL)
+3. Equilibrium, if a weak acid or base is present
+	1. ICE table (Molarity)
+	2. [[Henderson-Hasselbach Equation]] (Molarity)
+4. Calculate pH
+
+## Titration - strong acid + strong base
+
+What is the pH at different points during the titration of 50.0 mL of 0.100 M HCl and 0.200 M KOH
+
+### Step #1: What is in solution
+
+H$^+$ $\cancel{Cl^-}$
+
+### Step #4: no acid/base reaction
+
+$\therefore$ pH = -log(0.100) = 1.000
+
+
+What is the pH at different points during titration of 50.0 mL of 0.100 M HCl and 0.200 M KOH
+
+### Step #1: What is in solution
+
+H$^+$  $\cancel{Cl^-}$  $\cancel{K^+}$  OH$^-$
+
+### Step #2: Write a net ionic equation to react strong acid/base
+
+OH$^-$ + H$^+$ $\rightarrow$ H$_2$O
+
+What is the pH at different points during titration of 50.0 mL of 0.100 M HCl and 0.200 M KOH
+
+*After addition of 25.0 mL of KOH*
+
+### Step #1: What is in solution
+
+H$^+$ $\cancel{Cl^-}$ $\cancel{K^+}$ OH$^-$ 
+
+### Step #2: Write a net ionic equation to react strong acid/base
+
+OH$^-$ + H$^+$ $\rightarrow$ H$_2$O
+
+### Step #3: 
+
