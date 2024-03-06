@@ -103,6 +103,11 @@ Physics is my 3rd period class in [[Grade 12]] taught by [[Christopher Gibbons|M
 
 [[Physics - Unit 10 test]]
 
+### Readings
+
+- [[Physics - Chapter 15]]
+- [[Physics - Chapter 18]]
+- 
 ## Unit 11 - Circuits
 
 [[Physics - Unit 11 test]]
