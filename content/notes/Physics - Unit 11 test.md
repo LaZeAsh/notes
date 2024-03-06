@@ -6,4 +6,6 @@ title: "Physics - Unit 11 test"
 2. In series circuits **the current** is the same everywhere
 3. In parallel circuits **the voltage** is the same
 4. Draw circuits for test FRQ
+5. Motor turns electrical into mechanical
+6. 
 
