@@ -19,4 +19,5 @@ I am going to be overtime going over what I believe are common problems that peo
 - [[Doubt]]
 - [[Believing]]
 - [[notes/Think for yourself|Think for yourself]]
+- [[Grudges]]
 - 
