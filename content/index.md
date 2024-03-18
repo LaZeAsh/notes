@@ -8,7 +8,7 @@ I'm a senior in high school who's interested in pursuing the field of STEM speci
 ## Spotlight 🌟
 - I am currently working under [[Dr. Rhonda McEwen]]'s lab [[Emerging Technologies and the Arts Lab]] at [[University of Toronto]]
 - I am currently a Lead Organizer at [JAMHacks](https://www.jamhacks.ca) a hackathon hosted at [[University of Waterloo]]
-- I am developing [[RubiksCube-AI |Rubiks]] an application that analyzes and solves Rubiks Cubes
+- I am developing [[Rubiks|Rubiks]] an application that analyzes and solves Rubiks Cubes
 - I am a part of [[Berkeley ASAE]] where I am working with the Electrical Team to develop an aircraft in preparation for the SAE International Aero-Design West competition this Spring
 - I have previously been offered a job at [[Cohere]] as an Intern of Technical Staff
 - I love to workout 🏋️ love cars (checkout [[Miata]]) 🚗 and enjoy playing badminton 🏸
