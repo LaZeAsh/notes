@@ -109,8 +109,10 @@ High energy -> Low energy (this chapter)
 
 ## Unit 16
 - [[Solubility Product]]
-- 
 
+## Unit 17
+- [[Entropy]]
+- 
 ## Khan Academy
 
 Taking this course my grade 12 year and I want to get a headstart on it hence I will be studying and watching lessons
