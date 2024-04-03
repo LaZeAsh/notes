@@ -2,10 +2,10 @@
 title: "Matrices"
 ---
 ## Notation
-A = reference to matrice
-a = element
-a$_{12}$ = refers to element in matrice A 1st row 2nd column
-a$_{23}$ = refers to element in matrice A 2nd row 3rd column
+- A = reference to matrice
+- a = element
+- a$_{12}$ = refers to element in matrice A 1st row 2nd column
+- a$_{23}$ = refers to element in matrice A 2nd row 3rd column
 
 ## Rules
 
