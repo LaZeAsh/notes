@@ -4,8 +4,8 @@ title: "Matrices"
 ## Notation
 A = reference to matrice
 a = element
-a$_1$$_2$ = refers to element in matrice A 1st row 2nd column
-a$_2$$_3$ = refers to element in matrice A 2nd row 3rd column
+a$_{12}$ = refers to element in matrice A 1st row 2nd column
+a$_{23}$ = refers to element in matrice A 2nd row 3rd column
 
 ## Rules
 
