@@ -118,7 +118,11 @@ Physics is my 3rd period class in [[Grade 12]] taught by [[Christopher Gibbons|M
 
 ## Unit 12 - Electric & Magnetic Forces & Fields
 
-[[Unit 12]]
+[[Physics - Unit 12 test]]
+
+### Readings
+
+[[Physics - Chapter 19]]
 
 ## Final
 
