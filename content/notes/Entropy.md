@@ -39,3 +39,38 @@ $\triangle$ S$_{univ}$ = - $\frac{\triangle H}{T}$ + $\triangle$ S
 $\triangle$ G = $\triangle$ H - T$\triangle$S
 
 Provides us a thermodynamically favored reaction ALWAYS
+
+
+## Thermodynamic and Kinetic Control (9.4)
+
+- **Common misconception**: Thermodynamically favored reactions occur quickly
+- Many favored reactions occur incredibly slowly (example: conversion of diamonds to graphite)
+- These types of reactions are often slow because they have a high **activation energy**
+
+### Example
+
+C (diamond) $\rightarrow$ C (graphite)
+
+- $\triangle$G$^\degree$ = -3 kJ
+- Occurs spontaneously
+- Does not require the input of any external energy to occur
+- Incredibly slow, as in thousands of years slow
+- Kinetically controlled
+
+## Coupled Reactions (9.6)
+
+- Thermodynamically unfavorable reactions do not occur on their own
+- To make an unfavored reaction occur is through use of **coupled reactions**
+- `Couple reactions` - a combination of a non favored reaction and a favored reaction that have a **common intermediate**
+
+### Example
+
+Fe$_2$O$_3$ + 3CO $\rightarrow$ 2Fe + 3CO$_2$:
+
+Fe$_2$O$_3$ $\rightarrow$ 2Fe + 3/2O$_2$
+- $\triangle$G$^\degree$ = 742.2 kJ
+
+CO + 1/2O$_2$ $\rightarrow$ CO$_2$ 
+- $\triangle$G$^\degree$ = -283.5 kJ
+
+
