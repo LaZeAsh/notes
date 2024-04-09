@@ -23,3 +23,4 @@ title: "Physics - Chapter 19"
 - `Coulomb's Law`: F = k$\frac{|q1| |q2|}{r^2}$ 
 	- SI Unit: Newton (N)
 	- k = 8.99 * 10$^9$ N * m$^2$/C$^2$
+- Electric force can be attractive or repulsive therefore the total electric force between neutral objects, such as the Earth and Moon, is essentially zero. Attractive and repulsive forces can cancel each other out

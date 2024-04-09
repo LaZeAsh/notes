@@ -122,7 +122,9 @@ Physics is my 3rd period class in [[Grade 12]] taught by [[Christopher Gibbons|M
 
 ### Readings
 
-[[Physics - Chapter 19]]
+- [[Physics - Chapter 19]]
+- [[Physics - Chapter 20]]
+- 
 
 ## Final
 
