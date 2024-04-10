@@ -15,3 +15,9 @@ title: "Physics - Chapter 23"
 	- induced emf = -(# of loops) (rate of change of magnetic flux)
 	- $\epsilon$ = -N $\frac{\triangle \phi}{\triangle t}$
 - Lenz's law states that an induced current always flows in a direction that opposes the change that caused it
+
+## 23.2
+
+- `Electric Generator` - A device that converts mechanical energy to electrical energy
+- `Electric Motor` - A device that converts electrical energy to mechanical energy
+- 
