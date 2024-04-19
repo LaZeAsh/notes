@@ -18,4 +18,10 @@ title: "Physics - Unit 12 test"
 	- Eddy currents
 - 
 
+## Practice
+
+1. Do the practice questions he put on the board
+2. Review homework
+3. Review demos
+4. 
 
