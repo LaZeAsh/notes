@@ -15,13 +15,13 @@ title: "Physics - Chapter 22"
 
 - Stationary electric charge produces an electric field but not a magnetic field, As you move the charge magnetic field is generated
 - Magnetic field for a long straight wire
-	- B = $\frac{\micro_0I}{2\pi r}$
+	- B = $\frac{\micro _0I}{2\pi r}$
 	- SI Unit: Tesla (T)
 - Wires with currents in the same direction experience an attractive force
 - Wires with currents in the opposite direction experience a repulsive force
 - `Solenoid` - Electrical Device in which a long wire is wound into a succession of closely spaced loops
 - `Magnetic Field of a Solenoid`
-	- B = $\micro_0$ ($\frac{N}{L}$)I
+	- B = $\micro _0$ ($\frac{N}{L}$)I
 	- SI Unit: Tesla (T)
 
 ## 22.3
