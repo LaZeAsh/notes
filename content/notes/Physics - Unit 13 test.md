@@ -4,6 +4,7 @@ title: "Physics - Unit 13 Test"
 
 - Image of the Bride lab will be on the test
 - Several magic box questions
+- 4 FRQ Questions on this test 3 of them will be from the Curved Mirrors worksheet (won't be exactly the same as the worksheet)
 
 
 ## Demonstrations
