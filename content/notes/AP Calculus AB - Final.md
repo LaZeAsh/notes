@@ -8,4 +8,4 @@ title: "AP Calculus AB - Final"
 
 - Inverse
 - ![[Pasted image 20240418230802.png]]
-- 
+- Cross sectional volume / area
