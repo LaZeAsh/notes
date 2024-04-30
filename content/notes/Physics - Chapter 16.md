@@ -15,4 +15,7 @@ title: "Physics - Chapter 16"
 	- focal length = $\frac{1}{2}$ x radius of curvature
 	- f = $\frac{1}{2}$R
 	- SI Unit: m
-- 
+- Focal length for a convex mirror of radius R
+	- focal length = -$\frac{1}{2}$ x radius of curvature
+	- f = -$\frac{1}{2}$ R
+	- SI Unit: m
