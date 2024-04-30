@@ -116,7 +116,8 @@ High energy -> Low energy (this chapter)
 ## Unit 18
 - [[Electrochemistry]]
 - [[Electrolysis]]
-- 
+
+[[AP Chemistry - Final]]
 ## Khan Academy
 
 Taking this course my grade 12 year and I want to get a headstart on it hence I will be studying and watching lessons
