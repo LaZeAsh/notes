@@ -6,6 +6,7 @@ title: "Physics - Unit 13 Test"
 - Several magic box questions
 - 4 FRQ Questions on this test 3 of them will be from the Curved Mirrors worksheet (won't be exactly the same as the worksheet)
 	- 1, 2, 3, 5, 6 
+- Periscopes
 
 
 ## Demonstrations
