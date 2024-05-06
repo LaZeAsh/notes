@@ -5,7 +5,10 @@ title: "Physics - Unit 14 Test"
 1. When light goes from low index of refraction to high index of refraction it bends towards the normal
 2. High to low bends away from the normal
 3. There will be a question about semi-circle about how ray goes in it refracts but when it goes out it doesn't refract
-4. You can see a fish in a tank 3 times, and at none of those places are where the fish actually is
+	1. going to see this at least 3 times
+5. You can see a fish in a tank 3 times, and at none of those places are where the fish actually is
+	1. Probably going to be some little baby seal question
+6. oscilloscope (50 MCQ on the final day)
 
 
 ## Demonstrations
