@@ -9,6 +9,10 @@ title: "Physics - Unit 14 Test"
 5. You can see a fish in a tank 3 times, and at none of those places are where the fish actually is
 	1. Probably going to be some little baby seal question
 6. oscilloscope (50 MCQ on the final day)
+7. 1 - 2 questions about dispersion
+	1. Dispersion - Different colors refract different amount
+8. P. R51 # 139 on the test
+	1. wont be as complicated
 
 
 ## Demonstrations
@@ -21,5 +25,12 @@ title: "Physics - Unit 14 Test"
 
 - Light goes in it refracts but it comes out at the same angle as it goes in
 
+### Double Rainbow
 
+- In the top one red's on the bottom and bottom one red's on the top
+
+### Mirage
+
+- Hot air has a higher index of refraction than cold air
+- This causes a refraction of light which causes light to pile up 
 
