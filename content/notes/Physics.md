@@ -138,7 +138,11 @@ Physics is my 3rd period class in [[Grade 12]] taught by [[Christopher Gibbons|M
 ## Unit 14 - Refraction
 
 - [[Physics - Unit 14 test]]
-- 
+
+### Readings
+
+- [[Physics - Chapter 17]]
+
 ## Final
 
 [[Physics - Lab Practical Sem 2]]
