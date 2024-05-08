@@ -13,6 +13,9 @@ title: "Physics - Unit 14 Test"
 	1. Dispersion - Different colors refract different amount
 8. P. R51 # 139 on the test
 	1. wont be as complicated
+9. When an object has an index of refraction similar to the medium it's in the object seem to disappear
+10. 3 Lens on this unit's FRQ
+11. Alaadin's head doesn't seem to be connected to his torso
 
 
 ## Demonstrations
