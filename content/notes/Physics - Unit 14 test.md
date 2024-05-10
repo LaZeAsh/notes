@@ -16,6 +16,15 @@ title: "Physics - Unit 14 Test"
 9. When an object has an index of refraction similar to the medium it's in the object seem to disappear
 10. 3 Lens on this unit's FRQ
 11. Alaadin's head doesn't seem to be connected to his torso
+12. Critical Angle = 48.8$\degree$
+	1. Total Internal Reflection
+	2. Light cannot escape
+	3. If angle is higher than critical angle then light reflects
+	4. Critical angle $\theta_c$ = sin$^{-1}$($\frac{n_{refraction}}{n_{incidence}}$)
+		1. n$_r$ ALWAYS has to be less than n$_i$
+13. Prism problem on the test
+	1. Rhombus not pentagon
+	2. Find critical angle, find angle of refraction when light ray goes into object, when does it leave the object, 
 
 
 ## Demonstrations
@@ -37,3 +46,10 @@ title: "Physics - Unit 14 Test"
 - Hot air has a higher index of refraction than cold air
 - This causes a refraction of light which causes light to pile up 
 
+## Flower Fishing Line
+
+- The reason the light comes out the end is because the angle at other spots is always greater than the critical angle so it can only come off the end of the fishing line
+
+## Water Cork
+
+- Laser goes in water and when the water pours out the laser keeps refraction in the water and we see the water stream be red
