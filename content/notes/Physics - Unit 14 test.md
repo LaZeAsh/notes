@@ -25,7 +25,9 @@ title: "Physics - Unit 14 Test"
 13. Prism problem on the test
 	1. Rhombus not pentagon
 	2. Find critical angle, find angle of refraction when light ray goes into object, when does it leave the object, 
-
+14. Telescope on the test 
+15. If you are given a concave lens the image will be... (mark all that apply)z
+16. 
 
 ## Demonstrations
 
