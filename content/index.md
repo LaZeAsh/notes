@@ -1,5 +1,5 @@
 ---
-title: Hi, I am Ayush 1️⃣7️⃣
+title: Hi, I am Ayush 1️⃣8️⃣
 ---
 I'm an incoming student at the [[University of Waterloo]] pursuing Software Engineering!
 
