@@ -16,7 +16,7 @@ title: "Physics - Unit 14 Test"
 9. When an object has an index of refraction similar to the medium it's in the object seem to disappear
 10. 3 Lens on this unit's FRQ
 11. Alaadin's head doesn't seem to be connected to his torso
-12. Critical Angle = 48.8$\degree$
+12. Critical Angle
 	1. Total Internal Reflection
 	2. Light cannot escape
 	3. If angle is higher than critical angle then light reflects
@@ -28,6 +28,21 @@ title: "Physics - Unit 14 Test"
 14. Telescope on the test (2 lens on telescope)
 15. If you are given a concave lens the image will be... (mark all that apply)z
 16. Which has a shorter focal length more curved or less curved?
+17. Convex
+	1. Smaller
+	2. Image Distance negative
+	3. Focal Length negative
+	4. Imag
+18. 3 Problems from Lenses
+	1. Concave
+	2. Convex
+19. Telephoto Lens have a bigger focal length
+20. HW # 26 most questions like that on the test
+21. Magnification of compound system is just to multiply magnification of each lens
+
+## Final
+
+- Find the frequency of the unknown device on the table using oscilloscope, you will use circuits to build it
 
 ## Demonstrations
 
