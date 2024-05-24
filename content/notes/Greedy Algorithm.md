@@ -2,7 +2,7 @@
 title: "Greedy Algorithm"
 ---
 
-Learned Greedy while solving Codeforces problem Domino Piling (50A)
+Learned Greedy while solving [[Codeforces]] problem Domino Piling (50A)
 
 ## Definition
 
