@@ -15,3 +15,10 @@ Normally you would have a function that does it all for you but noooooo not in C
 ```
 
 This will change the string input1 to all lowercase
+
+## Shortest way to print hello world in C++
+
+```cpp
+ main(){__builtin_puts("Hello World");}
+```
+
