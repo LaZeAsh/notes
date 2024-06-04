@@ -1,8 +1,10 @@
 ---
 title: "Rubiks"
+draft: true
 ---
 Personal project I am working on, logs on how I made this are in [[RubiksCube-AI Logs]]
 
+Use reinforcement learning
 ## Features
 
 - Analyze cube and say how hard it was to solve
