@@ -9,3 +9,9 @@ Learned this at HackAIThon 2024
 https://ai.meta.com/tools/faiss/#:~:text=FAISS%20
 
 With FAISS developers can search multimedia documents in ways that are inefficient or impossible with standard database engines (such as SQL). Faiss is implemented in C++ with an optional Python interface and GPU support via CUDA.
+
+## Lang Chain implementation of FAISS
+
+Documentation: https://js.langchain.com/v0.2/docs/integrations/vectorstores/faiss/
+
+Vector Store 
