@@ -9,4 +9,3 @@ Neural networks are based off a brain
 
 Neuron is just a number that's a 0 or 1
 
-Layer 
