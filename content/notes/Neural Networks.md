@@ -1,6 +1,5 @@
 ---
 title: "Neural Networks"
-draft: true
 ---
 
 Many different forms of neural networks but this is dedicated to the plain vanilla form of neural network (Artificial Neural Network).
