@@ -11,9 +11,5 @@ Documentation: https://docs.opencv.org/4.x/d4/d73/tutorial_py_contours_begin.htm
 
 Contours are often used for shape analysis, object detection, and object recognition
 
-## Context of [[Rubiks]]
-
-Might be able to use contours to classify different colors of the Rubik's cube into squares. 
-
 
 
