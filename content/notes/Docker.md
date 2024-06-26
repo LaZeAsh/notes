@@ -20,6 +20,8 @@ Contains of 2 main components:
 
 ## Docker Images
 
+Docker images are read only templates that are used to create containers 
+
 ## Docker Containers
 
 ## Docker Registry
