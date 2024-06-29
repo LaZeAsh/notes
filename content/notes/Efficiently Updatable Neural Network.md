@@ -1,5 +1,7 @@
 ---
 title: "Efficiently Updatable Neural Network (NNUE)"
+aliases:
+- NNUE
 draft: true
 ---
 
