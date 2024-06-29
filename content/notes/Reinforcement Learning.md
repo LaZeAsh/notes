@@ -17,5 +17,8 @@ The goal of reinforcement learning is to learn a good strategy for the agent fro
 	- Transition Function (T): This defines how the environment changes from one state to another based on the agent's action
 	- Markov Property: Property that states that the future state can depend only on the current state and action not on the sequence of states (future states?) and actions that preceded them
 	- Episodic vs. Continuous: Environments can be episodic (with distinct episodes or trials) or continuous (with ongoing interactions)
-	- 
+	- Observable vs Partially Observable: An environment is observable if the agent can directly observe the current state. If some information is hidden or uncertain it's partially observable
+	- Deterministic vs Stochastic: Deterministic environments always produce the same next state and reward given a state and action. Stochastic environments introduce randomness into state transitions or rewards
+	- Static vs Dynamic: Static environments do not change over time, while dynamic environments may have changing dynamics or rules
+
 
