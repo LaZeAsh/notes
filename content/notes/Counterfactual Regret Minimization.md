@@ -23,3 +23,4 @@ In this case lets say we played scissors and lost...
 
 We regret that we did not play rock and tied but we regret **even more** that we did not play paper even more as our gain (in points) would have been the greatest if we played paper
 
+Ideally in a game one would want to focus on minimizing regret but if you face an opponent who is aware that you are using the approach regret matching then you could do the same computations, observe any bias that it may have towards a play and exploit that bias. By the time that the algorithm has learned to regret that bias the damage will have already been done.
