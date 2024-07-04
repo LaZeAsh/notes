@@ -1,11 +1,8 @@
 ---
 title: "Set Notation"
-draft: true
 ---
 
 A set is a collection of distinct elements, also considered an object. Each object in a set is called an element (member) of the set.
-
-
 
 Key points about sets:
 
@@ -36,5 +33,10 @@ Power Set: The set of all subsets of a set A, including empty set and A itself, 
 	- Example: {1, 2} $\cup$ {2, 3} = {1, 2, 3}
 2. Intersection: The intersection of two sets A and B is the set of elements that are in both A and B, denoted A $\cap$ B
 	- Example: {1, 2} $\cap$ {2, 3} = {2}
-3. 
+3. Difference: The difference of two sets A and B is the set of elements that are in A but not in B denoted A - B or A \ B
+	- Example: {1, 2} - {2, 3} = {1}
+4. Complement: The complement of a set of A is the set of elements that are not in A, usually relative to the universal set $\cup$, Denoted A$^{'}$ or A$^c$ 
+	- Example: if U {1, 2, 3} and A = {1, 2} then A$^c$ = {3}
+5. Cartesian Product: The Cartesian Product of two sets A and B is the set of all ordered pairs (a, b) where a $\in$ A and b $\in$ B denoted A x B
+	- Example: if A = {1, 2} and B = {x, y} then A x B = {(1,x),(1,y),(2,x),(2,y)}
 

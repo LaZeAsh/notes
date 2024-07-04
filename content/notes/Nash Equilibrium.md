@@ -5,7 +5,7 @@ draft: true
 
 Nash equilibrium is a situation where no player could gain by changing their own strategy 
 
-Nash equilibrium represents a state where each player's strategy is optimal given the strategies of all the other players
+Nash equilibrium is a defensive strategy that cannot be beaten, but also does not take advantage of opponents
 
 ## Key points of Nash Equilibrium:
 
@@ -14,7 +14,6 @@ Nash equilibrium represents a state where each player's strategy is optimal give
 3. No single player can improve payoff by changing their strategy alone
 
 ## Real World Example
-
 
 $\begin{array}{c|c|c} & \text{B: Cooperate} & \text{B: Defect} \\ \hline \text{A: Cooperate} & (3, 3) & (0, 5) \\ \hline \text{A: Defect} & (5, 0) & (1, 1) \\ \end{array}$
 
