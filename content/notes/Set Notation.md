@@ -1,5 +1,7 @@
 ---
 title: "Set Notation"
+aliases:
+- "Set"
 ---
 
 A set is a collection of distinct elements, also considered an object. Each object in a set is called an element (member) of the set.
