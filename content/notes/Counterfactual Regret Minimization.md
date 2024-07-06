@@ -26,10 +26,11 @@ We regret that we did not play rock and tied but we regret **even more** that we
 
 Ideally in a game one would want to focus on minimizing regret but if you face an opponent who is aware that you are using the approach regret matching then you could do the same computations, observe any bias that it may have towards a play and exploit that bias. By the time that the algorithm has learned to regret that bias the damage will have already been done.
 
+`Terminal game state` - State where the game has ended (eg: checkmate in chess)
 
-## Terminal Game State
+## Understanding Pseudocode Implementation for CFR 
 
-Terminal game state is the state where the game has ended (eg: checkmate in chess)
+
 
 ## Unfamiliar Terms
 
