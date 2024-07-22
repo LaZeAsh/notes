@@ -88,3 +88,8 @@ Breaking down what happens in this function
 Based on the index it identifies image's location on the disk, converts it to tensor using `read_image` retrieves the corresponding label from the csv data in `self.img_labels`, calls the transform functions on them, and returns the image and corresponding label in a tuple
 
 
+## Preparing your data for training
+
+
+
+
