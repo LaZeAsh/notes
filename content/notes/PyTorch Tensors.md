@@ -1,6 +1,5 @@
 ---
 title: "PyTorch Tensors"
-draft: true
 ---
 
 Tensors are the center of everything we do in PyTorch.
@@ -82,5 +81,12 @@ dozens = threes * fours # Does Matrix Multiplication
 ```
 
 
-Tensors follow the same rules as [[Matrices]] so you cannot do arithmetic operations with 2 tensors which have different shapes
+Tensors follow the same rules as [[Matrices]] so you cannot do arithmetic operations with 2 tensors which have different shapes (with the exception of tensor broadcasting)
+
+## Tensor Broadcasting
+
+The exception to the rule mentioned above is tensor broadcasting
+## More Math With Tensors
+
+Checkout https://pytorch.org/tutorials/beginner/introyt/tensors_deeper_tutorial.html#more-math-with-tensors for all the possible operations
 
