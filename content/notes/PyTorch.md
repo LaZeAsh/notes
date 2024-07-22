@@ -7,4 +7,5 @@ PyTorch is an open-source machine learning which is widely used for deep learnin
 ## Components
 
 - [[PyTorch Tensors]]
+- [[PyTorch Autograd]]
 - 
