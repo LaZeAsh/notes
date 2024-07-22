@@ -32,5 +32,15 @@ When performing operations on two or more tensors they will need to be the same 
 `Tensor Shape` - Having the same number of dimensions and same number of cells in each dimension
 
 ```python
+x = torch.empty(2, 2, 3)
 
+torch.empty_like(x) # Makes a tensor thats the same shape as x and is empty
+
+torch.zeros_like(x) # Makes a tensor thats the same shape as x and is filled with zeros
+
+torch.ones_like(x) # Makes a tensor thats the same shape as x and is filled with ones 
+
+torch.rand_like(x) # Makes a tensor thats the same shape as x and is filled with random values between 0 and 1
 ```
+
+
