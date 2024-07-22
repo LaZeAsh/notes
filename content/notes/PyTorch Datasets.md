@@ -90,6 +90,7 @@ Based on the index it identifies image's location on the disk, converts it to te
 
 ## Preparing your data for training
 
+`Dataset` retrieves our dataset's features and labels one sample at a time. We typically want to pass samples in "minibatches", reshuffle the data at every epoch (complete pass through of the entire dataset) to reduce model overfitting, and use Python's multiprocessing to speed up data retrieval
 
 
 
