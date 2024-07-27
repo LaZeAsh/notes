@@ -2,7 +2,9 @@
 title: "Time Complexity"
 ---
 ## Big O notation
+
 This notation expresses the worst-case time complexity as a function of n
+
 Simpler terms: The notation represents the worst run time complexity of your code 
 ### O(1)
 ```
