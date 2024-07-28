@@ -1,5 +1,5 @@
 ---
-title: "Highschool Graudation"
+title: "High School Graudation"
 draft: true
 ---
 
