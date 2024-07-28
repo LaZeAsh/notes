@@ -34,5 +34,7 @@ My freshman year came and left, nothing eventful happened (got in trouble once t
 
 ### USA
 
-10th Grade started like normal, school had gone back to fully in-person this year, no more of the hybrid system (bye bye lovely 9 AM - 12 PM school days). I went to class and came back home alongside a few things on the side (eg: volunteering at my Middle School's Pancake Breakfast). Semester 1 of High School wasn't the best as I wasn't performing as well as I wanted academically nor was I doing anything outside of school that I was proud of. I was just being me, going to school, coming back home, and playing games.
+10th Grade started like normal, school had gone back to fully in-person this year, no more of the hybrid system (bye bye lovely 9 AM - 12 PM school days). As my first in-person year of school I started 
+
+I went to class and came back home alongside a few things on the side (eg: volunteering at my Middle School's Pancake Breakfast). Semester 1 of High School wasn't the best as I wasn't performing as well as I wanted academically nor was I doing anything outside of school that I was proud of. I was just being me, going to school, coming back home, and playing games.
 
