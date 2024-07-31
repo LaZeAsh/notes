@@ -9,7 +9,7 @@ I met Guillermo Rauch in San Francisco at a Fireside Chat where he talked about 
 
 I loved this talk it was very relatable to me as an immigrant how my life has changed because of me being an immigrant and often having less opportunities because I am one.
 
-**All of the keypoints or Q&A in this note is not Guillermo's words I have cut down**
+**All of the Keypoints or Q&A in this note are not Guillermo's exact words**
 
 ## Key Takeaways from his talk
 
