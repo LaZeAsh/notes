@@ -34,4 +34,4 @@ A: You can get in touch with anyone you want using twitter (X) if you give them 
 
 ## Reflection
 
-My opinion about immigration and the effects it has,
+I relate quite a bit to Guillermo 
