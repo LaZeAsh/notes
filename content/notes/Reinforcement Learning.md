@@ -7,6 +7,7 @@ Learned about this concept at the Chess Hackathon in San Francisco!
 
 The goal of reinforcement learning is to learn a good strategy for the agent from trials and simple feedback. With optimal strategy the [[AI Agents|agent]] can adapt to the environment to maximize future rewards
 
+Reinforcement Learning is teaching an agent how to behave in an environment by telling it how good it's doing
 
 ## Key Concepts
 
