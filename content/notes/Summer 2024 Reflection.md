@@ -1,5 +1,6 @@
 ---
 title: "Summer 2024 Reflection"
+draft: true
 ---
 
 My last summer before [[University of Waterloo]], my last summer to be a kid.
