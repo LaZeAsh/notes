@@ -3,11 +3,11 @@ title: "Gradient Descent"
 draft: true
 ---
 
+How neural networks learn.
+
 Gradient Descent is a powerful optimization algorithm used to train Machine Learning models with the objective of minimizing the [[Cost Function]].
 
 ## Analogy
 
-Imagine going down a mountain blindfolded, your goal is to find the lowest point in the area. Gradient descent is feeling the ground to determine the steepest descent and taking steps to reach the lowest point
+The way you train a computer to do better is by insulting it, when training the network you mention to the computer what it should be and compare it what the computer returned and tell it to do better. I loved this analogy from the 3Blue1Brown video loool
 
-
-Request for Additional References
