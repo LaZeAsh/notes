@@ -15,7 +15,7 @@ The way you train a computer to do better is by insulting it, when training the 
 
 You add the up the squares of the differences between the trash output activations and the value you want them to have. This is called the cost of a single training example
 
-Eg: \[(x$_1$ - x$_2$)$^2$ + ... ]
+Eg: \[(x$_1$ - x$_2$)$^2$ + ... (x$_n$ - x$_{n+1}$)$^2$]
 
 Cost is `high` when the network doesn't seem like it knows what it's doing
 
