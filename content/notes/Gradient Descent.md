@@ -23,3 +23,4 @@ Cost is `small` when the network classifies correctly
 Average cost is the average of the costs of all the training example, it's also a measure of how lousy the network is and how "bad" the computer should "feel"
 
 
+What we mean when we say a network is learning is that we're just minimizing the cost function
