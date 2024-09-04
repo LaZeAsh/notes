@@ -1,7 +1,8 @@
 ---
 title: "Math 117"
-draft: true
 ---
+
+Professor: Serge D'Alessio
 
 Very well organized class, has lots of resources including office hours, videos, lecture notes, and more.
 

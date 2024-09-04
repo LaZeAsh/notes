@@ -18,3 +18,8 @@ I am going to be talking to waterloo admission officer(s) to get to know their p
 
 Maybe I will publicize these after the 2023 - 2024 Admissions Cycle is over
 
+## Software Engineering
+
+### 1A
+
+[[Math 117]]
