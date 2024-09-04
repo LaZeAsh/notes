@@ -16,4 +16,4 @@ When a = b it yields a circle of r (radius) = a
 
 The hyperbola is going to have `x-intercept` OR `y-intercept` not both
 
-Special case when xy = 1
+Special case when xy = 1 represents a hyperbola which has the x, y axes as its asymptotes. 
