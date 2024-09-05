@@ -28,3 +28,10 @@ Important Terms for the course Math 135 at the [[University of Waterloo]]
 	1. This statement is read as "For all x in S, P(x) is true"
 14. `Existentially Quantified Statement` - $\exists$ x $\in$ S, P(x)
 	1. This statement is read as "There exists at least one value of x in S for which P(x) is true"
+15. `Nested Quantifiers` - Quantifiers in a statement containing more than one quantifier
+16. $\forall$ s $\in$ $\mathbb{R}$, $\exists$ t $\in$ $\mathbb{R}$, t > s
+	1. For all real numbers s, there exists a real number t such that t > s
+17. $\exists$ x $\in$ X, $\forall$ y $\in$ Y, $\exists$ z $\in$ Z, R(x,y,z)
+	1. Can be rewritten as:
+		1. $\exists$ x $\in$ X, P(x), where P(x) is $\forall$ y $\in$ Y, Q(x, y), where Q(x, y) is $\exists$ z $\in$ Z, R(x, y, z)
+	2. 
