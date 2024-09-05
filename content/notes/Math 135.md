@@ -1,5 +1,7 @@
 ---
 title: "Math 135"
-draft: true
 ---
 
+Professor: Xuemiao Chen
+
+[[Math 135 - Important Terms]]
