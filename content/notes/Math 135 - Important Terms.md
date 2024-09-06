@@ -34,4 +34,3 @@ Important Terms for the course Math 135 at the [[University of Waterloo]]
 17. $\exists$ x $\in$ X, $\forall$ y $\in$ Y, $\exists$ z $\in$ Z, R(x,y,z)
 	1. Can be rewritten as:
 		1. $\exists$ x $\in$ X, P(x), where P(x) is $\forall$ y $\in$ Y, Q(x, y), where Q(x, y) is $\exists$ z $\in$ Z, R(x, y, z)
-	2. 

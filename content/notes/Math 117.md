@@ -10,4 +10,5 @@ Calculus 1 Course at the [[University of Waterloo]]
 ## Week 1 (Sept. 4 - Sept. 6)
 
 - [[Conic Sections]]
+- [[Functions]]
 - 
