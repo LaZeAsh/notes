@@ -11,4 +11,5 @@ Linear Algebra is the study of vectors and vector spaces.
 ## Week 1 (Sept 4. - Sept. 6)
 
 - [[Vectors]]
+- [[Properties of Vector Algebra]]
 - 
