@@ -11,4 +11,9 @@ Calculus 1 Course at the [[University of Waterloo]]
 
 - [[Conic Sections]]
 - [[Functions]]
+
+## Week 2 (Sept. 9 - Sept. 13)
+
+- [[Properties of Inequalities]]
+- [[Properties of Absolute Values]]
 - 
