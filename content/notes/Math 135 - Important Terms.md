@@ -55,4 +55,4 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 	2. A $\lor$ (B $\lor$ C) $\equiv$ (A $\lor$ B) $\lor$ C
 9. Distributive Laws:
 	1. A $\land$ (B $\lor$ C) $\equiv$ (A $\land$ B) $\lor$ (A $\land$ C)
-	2. 
+	2. A $\lor$ (B $\land$ C) $\equiv$ (A $\lor$ B) $\land$ (A $\lor$ C)
