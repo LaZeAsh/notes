@@ -2,7 +2,9 @@
 title: "Math 135 - Important Terms"
 ---
 
-Important Terms for the course Math 135 at the [[University of Waterloo]]
+Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
+
+## Chapter 1
 
 1. Sets - [[Set Notation]]
 2. `Statement` - a sentence that has the definite state of being true or false
@@ -34,3 +36,23 @@ Important Terms for the course Math 135 at the [[University of Waterloo]]
 17. $\exists$ x $\in$ X, $\forall$ y $\in$ Y, $\exists$ z $\in$ Z, R(x,y,z)
 	1. Can be rewritten as:
 		1. $\exists$ x $\in$ X, P(x), where P(x) is $\forall$ y $\in$ Y, Q(x, y), where Q(x, y) is $\exists$ z $\in$ Z, R(x, y, z)
+
+## Chapter 2
+
+1. Negation is denoted by $\neg$ or the keyword "not" (Eg: $\neg$A / not A)
+2. `Compound Statement` is a statement composed of several individual statements, each of which is called a `Component Statement`
+3. A $\land$ B translates to A **and** B. This is similar to `and` statement in programming. Both A and B have to be true for A $\land$ B to be true
+4. A $\lor$ B translates to A **or** B. This is similar to `or` statement in programming. Either A OR B have to be true for A $\lor$ B to be true
+5. Brackets are important, they specify the order of operation
+6. `De Morgan's Law (DML)`
+	1. $\neg$ (A $\land$ B) $\equiv$ ($\neg$ A) $\lor$ ($\neg$ B)
+	2. $\neg$ (A $\lor$ B) $\equiv$ ($\neg$ A) $\land$ ($\neg$ B)
+7. Commutative Laws:
+	1. A $\land$ B $\equiv$ B $\land$ A
+	2. A $\lor$ B $\equiv$ B $\lor$ A
+8. Associative Laws:
+	1. A $\land$ (B $\land$ C) $\equiv$ (A $\land$ B) $\land$ C
+	2. A $\lor$ (B $\lor$ C) $\equiv$ (A $\lor$ B) $\lor$ C
+9. Distributive Laws:
+	1. A $\land$ (B $\lor$ C) $\equiv$ (A $\land$ B) $\lor$ (A $\land$ C)
+	2. 
