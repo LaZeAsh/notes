@@ -1,2 +1,5 @@
 
 notes/Clean Code.md
+notes/Math 135 - Important Terms.md
+notes/Math 135 - Important Terms.md#Chapter 1
+notes/Math 135 - Important Terms.md#Chapter 2

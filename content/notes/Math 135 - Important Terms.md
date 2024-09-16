@@ -56,3 +56,13 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 9. Distributive Laws:
 	1. A $\land$ (B $\lor$ C) $\equiv$ (A $\land$ B) $\lor$ (A $\land$ C)
 	2. A $\lor$ (B $\land$ C) $\equiv$ (A $\lor$ B) $\land$ (A $\lor$ C)
+10. `Implication`:
+	1. Format: A $\implies$ B
+		1. Only false when A is true and B is false
+		2. All other times true
+11. Implication B $\implies$ A is called the `converse` of A $\implies$ B
+12. Implication ($\neg$B) $\implies$ ($\neg$A) is called the `contrapositive` of A $\implies$ B
+13. `If and only if (iff)` is represented by A $\iff$ B
+	1. Only true when both A and B are same truth value (both have to be true or false)
+	2. (A $\iff$ B) $\equiv$ ((A $\implies$ B) $\land$ (B $\implies$ A))
+14. 
