@@ -65,4 +65,10 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 13. `If and only if (iff)` is represented by A $\iff$ B
 	1. Only true when both A and B are same truth value (both have to be true or false)
 	2. (A $\iff$ B) $\equiv$ ((A $\implies$ B) $\land$ (B $\implies$ A))
-14. 
+
+## Chapter 3
+
+- We `prove` a statement when we demonstrate its true and the argument to do is called a `proof`
+- We `disprove` a statement when we demonstrate it's false
+- When proving an identity we do NOT start by assuming the truth of that identity
+- Be on the look out for `extraneous solutions` (solutions not in the domain created by acts such as rearranging the equation) 
