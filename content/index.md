@@ -1,7 +1,7 @@
 ---
 title: Hi, I am Ayush 1️⃣8️⃣
 ---
-I'm an incoming student at the [[University of Waterloo]] pursuing Software Engineering!
+I'm a student at the [[University of Waterloo]] pursuing Software Engineering!
 
 *Try clicking on the highlighted portions to view my notes on that topic*
 
