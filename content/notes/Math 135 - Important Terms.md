@@ -69,6 +69,16 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 ## Chapter 3
 
 - We `prove` a statement when we demonstrate its true and the argument to do is called a `proof`
+	- You can prove an inequality by proving all of it's constraints (eg: x $\leq$ 1 and x $\geq$ 3)
+	- 
 - We `disprove` a statement when we demonstrate it's false
-- When proving an identity we do NOT start by assuming the truth of that identity
+	- To disprove a universally quantified statement find a counter-example. For example if the statement is true for all domains find a value for which it isn't
+	- To disprove $\exists$ x $\in$ S, P(x) prove it's negation $\forall$ x $\in$ S, $\neg$P(x)
+- When proving an identity we do **NOT** start by assuming the truth of that identity
 - Be on the look out for `extraneous solutions` (solutions not in the domain created by acts such as rearranging the equation) 
+- $\forall$ k $\in$ $\mathbb{Z}$, $\exists$ x $\in$ $\mathbb{R}$, x$^2$ + 2kx + k = 0 $\neq$ $\exists$ x $\in$ $\mathbb{R}$, $\forall$ k $\in$ $\mathbb{Z}$, x$^2$ + 2kx + k = 0
+	- Changing the order of nested quantifiers can change the truth value of a quantified statement
+- To prove the implication $\forall$ x $\in$ S, P(x) $\implies$ Q(x)
+	- Assume x is an arbitrary element
+	- Assume P(x) is true
+	- Use that assumption to show Q(x) is true
