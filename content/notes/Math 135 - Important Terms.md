@@ -101,4 +101,4 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 		- bm is an integer we conclude a $\mid$ bc
 	- These proofs can be re-written as if a $\mid$ c, then a $\mid$ bc is similar, and is omitted
 - `Divisibility of Integer Combinations (DIC)` - For all integers a, b and c, if a $\mid$ b and a $\mid$ c, then for all integers x and y, a $\mid$ (bx + cy)
-- 
+- To prove an implication using contrapositive (A $\implies$ B) replace it with it's contrapositive ($\neg$B) $\implies$ ($\neg$A)
