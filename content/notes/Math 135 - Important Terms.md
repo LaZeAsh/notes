@@ -82,3 +82,5 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 	- Assume x is an arbitrary element
 	- Assume P(x) is true
 	- Use that assumption to show Q(x) is true
+- We assume an integer is even if it can be written as 2k (k = an integer). Otherwise an integer is written in the form 2k + 1 where we say the integer is odd
+- 
