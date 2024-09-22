@@ -83,4 +83,22 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 	- Assume P(x) is true
 	- Use that assumption to show Q(x) is true
 - We assume an integer is even if it can be written as 2k (k = an integer). Otherwise an integer is written in the form 2k + 1 where we say the integer is odd
+- 3 $\mid$ 6 exists since 6 = 3 * 2, exists an integer k such that 6 = 3k
+- -3 $\mid$ 6 exists since 6 = (-3) * (-2), exists an integer k such that 6 = -3k
+- 5 $\nmid$ 6 since no integer k exists so that 6 = k * 5
+- For all integers a, a $\mid$ 0 $\because$ 0 = 0 * a
+- For all non-zero integers a, a $\mid$ 0 since no integer k so that k * 0 = a
+- For all integers b, 1 $\mid$ b since b can be written as b = b * 1 and -1 $\mid$ b since b can be written b = (-b) * (-1)
+- `Transfer of Divisibility (TD)` - For all integers a, b, and c, if a $\mid$ b and b $\mid$ c, then a $\mid$ c
+- `Proposition 8:` For all integers if a, b and c, if a $\mid$ b or a $\mid$ c, then a $\mid$ bc
+	- If a $\mid$ b, then a $\mid$ bc
+		- Assume a $\mid$ b, there exists an integer k so that b = ka. Substitute for b in product bc, we get
+		- bc = (ka)c = kac = (kc)a
+		- $\because$ kc is an integer we can conclude a $\mid$ bc
+	- If a $\mid$ c, then a $\mid$ bc
+		- Exists integer m so that c = ma. Substituting this equation we get
+		- bc = b(ma) = bma = (bm)a
+		- bm is an integer we conclude a $\mid$ bc
+	- These proofs can be re-written as if a $\mid$ c, then a $\mid$ bc is similar, and is omitted
+- `Divisibility of Integer Combinations (DIC)` - For all integers a, b and c, if a $\mid$ b and a $\mid$ c, then for all integers x and y, a $\mid$ (bx + cy)
 - 
