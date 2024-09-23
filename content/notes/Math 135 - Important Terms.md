@@ -122,4 +122,10 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 	- S $\cup$ T = {x: x $\in$ S OR x $\in$ T} = {x: (x $\in$ S) $\lor$ (x $\in$ T)}
 - The intersection of two sets S and T, written S $\cap$ T is the set of all elements belonging to both set S and set T
 	- S $\cap$ T = {x: x $\in$ S AND x $\in$ T} = {x: (x $\in$ S) $\land$ (x $\in$ T)}
-- Set difference of two sets 
+- Set difference of two sets S and T is written as S - T (or S `\` T) is the set of all elements belonging to S but not T 
+	- S - T = {x : x $\in$ S AND x $\in$ T} = {x : (x $\in$ S) $\land$ (x $\notin$ T)} = {x : (x $\in$ S) $\land$ ($\neg$(x $\in$ T))}
+- Complement of set S, written $\overline{S}$ is set of all elements not in S
+	- $\overline{S}$ = {x : x $\notin$ S}
+- $\overline{S}$ = $\mathcal{U}$ - $\mathcal{S}$
+	- $\overline{S}$ = $\mathcal{U}$ - $\mathcal{S}$ 
+- 
