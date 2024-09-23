@@ -104,3 +104,22 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 - To prove an implication using contrapositive (A $\implies$ B) replace it with it's contrapositive ($\neg$B) $\implies$ ($\neg$A)
 - Anytime we come across an argument claiming A and $\neg$A are true we say there must be a `contradiction` in the argument
 - `Proof by Contradiction` - 
+
+
+## Chapter 5
+
+- Number of elements in a finite set is called `cardinality` denoted by | S |
+- `Universe of Discourse` $\mathcal{U}$ - contains all the objects we might encounter in a given situation
+- {x $\in$ $\mathcal{U}$ : P(x)}
+	- x is an element of $\mathcal{U}$
+	- P(x) is true
+- {f(x) : x $\in$ $\mathcal{U}$}
+	- containing all objects of the form f(x) such that x is an element of $\mathcal{U}$
+- {f(x) : x $\in$ $\mathcal{U}$, P(x)} or {f(x) : P(x), x $\in$ $\mathcal{U}$}
+	- x is an element of $\mathcal{U}$
+	- P(x) is true
+- Union of two sets S and T written S $\cup$ T is the set of all elements belonging to either set S or set T(or both)
+	- S $\cup$ T = {x: x $\in$ S OR x $\in$ T} = {x: (x $\in$ S) $\lor$ (x $\in$ T)}
+- The intersection of two sets S and T, written S $\cap$ T is the set of all elements belonging to both set S and set T
+	- S $\cap$ T = {x: x $\in$ S AND x $\in$ T} = {x: (x $\in$ S) $\land$ (x $\in$ T)}
+- Set difference of two sets 
