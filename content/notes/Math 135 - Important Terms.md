@@ -105,7 +105,10 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 - Anytime we come across an argument claiming A and $\neg$A are true we say there must be a `contradiction` in the argument
 - (A $\lor$ B $\implies$ C) $\equiv$ ((A $\implies$ C) $\land$ (B $\implies$ C))
 - `Proof by Contradiction` - 
-- 
+
+
+## Chapter 4
+
 
 
 ## Chapter 5
