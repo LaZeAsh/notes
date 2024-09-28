@@ -109,7 +109,9 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 
 ## Chapter 4
 
+- `Properties of Summation`
 
+\[ $\sum_{i=m}^{k} cx_{i}$ \]
 
 ## Chapter 5
 
