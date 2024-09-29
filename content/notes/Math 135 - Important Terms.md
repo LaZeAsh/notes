@@ -162,4 +162,5 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 	- $\overline{S}$ = {x : x $\notin$ S}
 - $\overline{S}$ = $\mathcal{U}$ - $\mathcal{S}$
 	- $\overline{S}$ = $\mathcal{U}$ - $\mathcal{S}$ 
-
+- Two sets are said to be disjoint when S $\cap$ T = $\emptyset$
+- 
