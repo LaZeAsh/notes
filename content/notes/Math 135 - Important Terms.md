@@ -109,9 +109,29 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 
 ## Chapter 4
 
-- `Properties of Summation`
+- `Properties of Summation (PS)`
+	1. Multiplying by a constant
+		- $\sum_{i=m}^{k} cx_{i}$ = c $\sum_{i=m}^{k} x_i$ (where c is constant)
+	2. Adding two sums and subtracting two sums
+		- $\sum_{i=m}^{k} x_i$ + $\sum_{i=m}^{k} y_i$ = $\sum_{i=m}^{k} (x_i + y_i)$
+		- $\sum_{i=m}^{k} x_i$ - $\sum_{i=m}^{k} y_i$ = $\sum_{i=m}^{k}(x_i - y_i)$
+	3. Change the bounds of the index of summation
+		- $\sum_{i=m}^{k} x_i$ $\sum_{i=m+r}^{k+r} x_{i-r}$ 
+	4. Breaking a sum apart
+		- $\sum_{i=m}^{k} x_i$ = $\sum_{i=m}^{r} x_i$ + $\sum_{i=r+1}^{k} x_i$ 
+- `Product Notation`
+	- $\prod_{i=m}^{k} x_i$ = x$_m$x$_{m+1}$ $\dots$ x$_{k-1}$x$_k$
+- `Axiom` is a statement that is assumed to be true. No proof given
+- `Principle of Mathematical Induction (POMI)`
+	- Let P(n) be an open sentence depends on n $\in$ $\mathbb{N}$
+		- If statements 1 and 2 are both true:
+			- P(1)
+			- For all k $\in$ $\mathbb{N}$, if P(k), then P(k + 1)
+		- then statement 3 is true:
+			- For all n $\in$ $\mathbb{N}$, P(n)
+- 
 
-\[ $\sum_{i=m}^{k} cx_{i}$ \]
+
 
 ## Chapter 5
 
