@@ -122,16 +122,21 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 - `Product Notation`
 	- $\prod_{i=m}^{k} x_i$ = x$_m$x$_{m+1}$ $\dots$ x$_{k-1}$x$_k$
 - `Axiom` is a statement that is assumed to be true. No proof given
-- `Principle of Mathematical Induction (POMI)`
+- Axiom 1 - `Principle of Mathematical Induction (POMI)`
 	- Let P(n) be an open sentence depends on n $\in$ $\mathbb{N}$
 		- If statements 1 and 2 are both true:
 			- P(1)
 			- For all k $\in$ $\mathbb{N}$, if P(k), then P(k + 1)
 		- then statement 3 is true:
 			- For all n $\in$ $\mathbb{N}$, P(n)
-- `Principle of Strong Induction (POSI)`
+- Axiom 2 - `Principle of Strong Induction (POSI)`
 	- Let P(n) be an open sentence that depends on n $\in$ $\mathbb{N}$
 	- If statements 1 and 2 are both true
+		1. P(1)
+		2. For all k $\in$ $\mathbb{N}$, if P(1) $\land$ P(2) $\land$ $\dots$ $\land$ P(k) then P(k + 1)
+	- then statement 3 is true:
+		3. For all n $\in$ $\mathbb{N}$, P(n)
+- 
 
 
 
