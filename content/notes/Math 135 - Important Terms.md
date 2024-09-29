@@ -137,7 +137,6 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 	- then statement 3 is true:
 		3. For all n $\in$ $\mathbb{N}$, P(n)
 - If you can prove the inductive conclusion P(k + 1) by assuming only P(k) then use POMI but if you need to assume P(i) for one or more i with i < k, then use POSI
-- 
 
 
 
