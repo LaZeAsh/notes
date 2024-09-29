@@ -129,7 +129,9 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 			- For all k $\in$ $\mathbb{N}$, if P(k), then P(k + 1)
 		- then statement 3 is true:
 			- For all n $\in$ $\mathbb{N}$, P(n)
-- 
+- `Principle of Strong Induction (POSI)`
+	- Let P(n) be an open sentence that depends on n $\in$ $\mathbb{N}$
+	- If statements 1 and 2 are both true
 
 
 
