@@ -163,4 +163,9 @@ Important Terms for the course [[Math 135]] at the [[University of Waterloo]]
 - $\overline{S}$ = $\mathcal{U}$ - $\mathcal{S}$
 	- $\overline{S}$ = $\mathcal{U}$ - $\mathcal{S}$ 
 - Two sets are said to be disjoint when S $\cap$ T = $\emptyset$
+- A set S is called a subset of set T, written symbolically as S $\subseteq$ T, when every element of S belongs to T
+- A set S is called a proper subset of a set T, written symbolically as S $\subsetneq$ T, when S is a subset of T and there exists an element in T which does not belong in S
+- When S is not a subset of T, we can write it as S $\not\subseteq$ T
+- When we have S $\subseteq$ T we also say T is a superset of S
+- When we have S $\subsetneq$ T we also say T is a proper subset of S
 - 
