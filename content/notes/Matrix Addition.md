@@ -10,11 +10,10 @@ The matrix must have the same dimensions (so same # of rows and same # of column
 
 If the dimensions are the same you add 1 element from the other in the order it was given
 
-Eg: A = $\Huge{[}$ 1 2 3  $\Huge{]}$ 
-		        4 5 6
-	B = $\Huge{[}$ -1 3 -2 $\Huge{]}$ 
-	           -3 4 1
-A + B = $\Huge{[}$ 0 5 1 $\Huge{]}$ 
-				1 9 7
+Let A = $\begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix}$
 
-In this example the elements are being added with their cooresponding element
+Let B = $\begin{bmatrix} -1 & 3 & -2 \\ -3 & 4 & 1 \end{bmatrix}$
+
+A + B = $\begin{bmatrix} 0 & 5 & 1 \\ 1 & 9 & 7 \end{bmatrix}$
+
+In this example the elements are being added with their corresponding element
