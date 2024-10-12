@@ -6,4 +6,6 @@ Competitive Programming git repo: https://github.com/LaZeAsh/competitive-program
 ## Algorithms
 
 - [[Greedy Algorithm]]
+- [[Prefix Sum Array]]
+- [[Depth First Search (DFS)]]
 - 
