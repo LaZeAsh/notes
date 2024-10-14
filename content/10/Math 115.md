@@ -11,4 +11,5 @@ Linear Algebra is the study of vectors and vector spaces.
 
 - [[Properties of Vector Algebra]]
 - [[The Norm and Dot Product]]
+- [[Vector Equations of Lines and Planes]]
 - 
