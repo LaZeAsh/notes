@@ -25,6 +25,7 @@ Need 2 things to make a vector equation of the line
 ## Vector Equation of a Plane
 
 > [!Vector Equation of a Plane]
+>
 > A **vector equation** for a plane in $\mathbb{R}^n$ through a point P is given by
 > 
 > $\vec{x} = \begin{bmatrix} x_1 \\ ... \\ x_n \end{bmatrix} = \vec{OP} + s\vec{u} + t\vec{v}, s, t, \in \mathbb{R}$
