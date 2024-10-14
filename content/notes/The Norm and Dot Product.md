@@ -55,8 +55,8 @@ Two vectors are said to be `orthogonal` if $\vec{x} \cdot \vec{y} = \vec{0}$
 
 $\theta$ = arccos ($\frac{\vec{x} \cdot \vec{y}}{\| \vec{x} \| \| \vec{y} \|})$
 
-- $\vec{x} \cdot \vec{y} > 0 \iff 0 \leq \theta \frac{\pi}{2} \iff \vec{x}$  and $\vec{y}$ determine an acute angle
-- $\vec{x} \cdot \vec{y} = 0 \iff 0 = \frac{\pi}{2} \iff \vec{x}$  and $\vec{y}$ are perpendicular
-- $\vec{x} \cdot \vec{y} < 0 \iff \frac{\pi}{2} < \theta \pi \iff \vec{x}$  and $\vec{y}$ determine an obtuse angle
+- $\vec{x} \cdot \vec{y} > 0 \iff 0 \leq \theta < \frac{\pi}{2} \iff \vec{x}$  and $\vec{y}$ determine an acute angle
+- $\vec{x} \cdot \vec{y} = \theta \iff 0 = \frac{\pi}{2} \iff \vec{x}$  and $\vec{y}$ are perpendicular
+- $\vec{x} \cdot \vec{y} < 0 \iff \frac{\pi}{2} < \theta \leq \pi \iff \vec{x}$  and $\vec{y}$ determine an obtuse angle
 
 
