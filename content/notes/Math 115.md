@@ -19,4 +19,5 @@ Linear Algebra is the study of vectors and vector spaces.
 ## Chapter 2
 
 - [[Systems of Linear Equations]]
+- [[Rank]]
 - 
