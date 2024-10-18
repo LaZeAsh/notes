@@ -10,4 +10,5 @@ Introduced in [[Math 115]]
 > $a_1x_1 + a_2x_2 + \dots a_nx_n = b$
 > Where $x_1, \dots , x_n \in \mathbb{R}$ are the variables or unknowns, $a_1, \dots , a_n \in \mathbb{R}$ are coefficients and b $\in \mathbb{R}$ is the constant term. A system of linear equations (also called a linear system of equations) is a collection of finitely many linear equations
 
+A linear system of equations is considered **consistent** if it has at least one solution. Otherwise, we call the linear system **inconsistent**
 
