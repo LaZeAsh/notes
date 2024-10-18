@@ -27,3 +27,5 @@ rank(A) $\leq$ min{m, n}
 >	
 > c) The system is consistent for all $\vec{b} \in \mathbb{R}^m$ if and only if rank(A) = m
 
+A system of m linear equations in n variables is overdetermined if n < m, this is, if it has more equations than variables
+
