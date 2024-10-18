@@ -12,3 +12,15 @@ Introduced in [[Math 115]]
 
 A linear system of equations is considered **consistent** if it has at least one solution. Otherwise, we call the linear system **inconsistent**
 
+> [! Definition 2.2.5]
+> The first nonzero entry in each row of a matrix is called a **leading entry** (or a **pivot**). A matrix is in **Row Echelon Form (REF)** if
+> 
+> a) All rows whose entries are all zero appear below all rows that contain nonzero entries
+> 
+> b) Each leading entry is to the right of the leading entries above it
+> A matrix is in **Reduced Row Echelon Form (RREF)** if it is in REF and
+> 
+> c) Each leading entry is a 1, called a **leading one**
+> 
+> d) Each leading entry is the only nonzero entry in its column
+
