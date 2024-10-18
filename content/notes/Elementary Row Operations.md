@@ -10,4 +10,7 @@ The three elementary row operations are:
 
 ## Comments on Combining Elementary Row Operations (2.5)
 
-It is encouraged to con
+It is encouraged to combine elementary row operations when we're using one row to modify the others
+
+Avoid multiple row operations in the same step. This would still be correct but is discouraged since there's more room for error
+

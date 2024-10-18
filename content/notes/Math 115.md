@@ -22,4 +22,8 @@ Linear Algebra is the study of vectors and vector spaces.
 - [[Rank]]
 - [[Homogeneous System of Linear Equations]]
 - [[Elementary Row Operations]]
+
+## Chapter 3
+
+- [[Matrices]]
 - 
