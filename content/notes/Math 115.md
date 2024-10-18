@@ -15,4 +15,8 @@ Linear Algebra is the study of vectors and vector spaces.
 - [[Cross Product]]
 - [[Scalar Equations of Planes]]
 - [[Projection]]
+
+## Chapter 2
+
+- [[Systems of Linear Equations]]
 - 

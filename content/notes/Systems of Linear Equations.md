@@ -1,0 +1,13 @@
+---
+title: "Systems of Linear Equations"
+---
+
+Introduced in [[Math 115]]
+
+> [! Definition 2.1.2]
+> A **linear equation** in n variables is an equation of the form 
+> 
+> $a_1x_1 + a_2x_2 + \dots a_nx_n = b$
+> Where $x_1, \dots , x_n \in \mathbb{R}$ are the variables or unknowns, $a_1, \dots , a_n \in \mathbb{R}$ are coefficients and b $\in \mathbb{R}$ is the constant term. A system of linear equations (also called a linear system of equations) is a collection of finitely many linear equations
+
+
