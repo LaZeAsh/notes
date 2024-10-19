@@ -26,4 +26,5 @@ Linear Algebra is the study of vectors and vector spaces.
 ## Chapter 3
 
 - [[Matrices]]
+- [[Matrix-Vector Product]]
 - 
