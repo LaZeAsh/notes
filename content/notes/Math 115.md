@@ -27,4 +27,10 @@ Linear Algebra is the study of vectors and vector spaces.
 
 - [[Matrices]]
 - [[Matrix-Vector Product]]
+- [[The Matrix Equation]]
+- [[Matrix Inverse]]
+
+## Chapter 4
+
+- [[Spanning Sets]]
 - 

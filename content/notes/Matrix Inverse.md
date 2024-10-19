@@ -1,6 +1,14 @@
 ---
 title: "Matrix Inverse"
 ---
+
+## Math 115
+
+Other content is high school content
+
+![[Pasted image 20241018230405.png]]
+
+
 ## Pre-requisite
 
 Need to have a 2 x 2 matrix to do this by hand

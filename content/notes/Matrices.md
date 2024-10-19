@@ -68,7 +68,7 @@ Has 1 in diagonals and everything else is 0
 
 [[Matrix Addition]]
 [[Matrix Subtraction]]
-[[Matrix Mulltiplication]]
+[[Matrix Multiplication]]
 [[Matrix Determinants]]
 [[Matrix Inverse]]
 
