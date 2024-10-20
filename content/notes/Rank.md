@@ -23,7 +23,7 @@ rank(A) $\leq$ min{m, n}
 > 
 > b) If the system is consistent, then the number of parameters in general solution is the number of variables minus the rank of A
 >
->	# of parameters = n - rank(A)
+>	`# of parameters = n - rank(A)`
 >	
 > c) The system is consistent for all $\vec{b} \in \mathbb{R}^m$ if and only if rank(A) = m
 
