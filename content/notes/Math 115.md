@@ -33,4 +33,9 @@ Linear Algebra is the study of vectors and vector spaces.
 ## Chapter 4
 
 - [[Spanning Sets]]
+
+
+## Midterm
+
+- [[Math 115 - Midterm Prep]]
 - 
